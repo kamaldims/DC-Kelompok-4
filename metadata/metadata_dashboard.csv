@@ -1,0 +1,519 @@
+﻿variable,question,label,bank,section,touchpoint,subgroup,role,scale_max,include,n_terisi,ada_di_data
+F1B,Ke depannya saya pasti akan tetap menggunakan layanan dari bank…(kompetitor),Ke depannya saya pasti akan tetap menggunakan layanan dari …,Kompetitor,Ringkasan,,KPI Utama,KPI,6,1,546,Ya
+G1C,NPS bank kompetitor,NPS bank kompetitor,Kompetitor,Ringkasan,,KPI Utama,KPI,10,1,546,Ya
+E1B,Tingkat Kepuasan terhadap Bank kompetitor,Tingkat Kepuasan terhadap Bank kompetitor,Kompetitor,Ringkasan,,KPI Utama,KPI,6,1,546,Ya
+F1A,Ke depannya saya pasti akan tetap menggunakan layanan dari Bank XYZ,Ke depannya saya pasti akan tetap menggunakan layanan dari …,XYZ,Ringkasan,,KPI Utama,KPI,6,1,1730,Ya
+G1A,NPS Bank XYZ,NPS Bank XYZ,XYZ,Ringkasan,,KPI Utama,KPI,10,1,1730,Ya
+E1A,Tingkat Kepuasan terhadap XYZ,Tingkat Kepuasan terhadap XYZ,XYZ,Ringkasan,,KPI Utama,KPI,6,1,1730,Ya
+T_H1A_41,Bank dengan segala produk dan fasilitas yang membuat saya merasa cukup dengan menjadi nasabah satu bank saja - XYZ.1,Bank dengan segala produk dan fasilitas yang membuat saya m…,XYZ,Ringkasan,,Loyalty Driver,Loyalty Driver,6,1,1730,Ya
+T_H1A_44,Bank ini membuat saya merasa prestigius/bergengsi - XYZ,Bank ini membuat saya merasa prestigius/bergengsi,XYZ,Ringkasan,,Loyalty Driver,Loyalty Driver,6,1,1730,Ya
+T_H1A_38,Bank turun-temurun yang membantu keluarga saya dan mengajarkan saya menabung pertama kali - XYZ,Bank turun-temurun yang membantu keluarga saya dan mengajar…,XYZ,Ringkasan,,Loyalty Driver,Loyalty Driver,6,1,1730,Ya
+T_H1A_11,"Bank yang memberikan banyak keuntungan finansial (bunga lebih tinggi, biaya yang rendah, tanpa biaya administrasi, asuransi gratis) - XYZ",Bank yang memberikan banyak keuntungan finansial (bunga leb…,XYZ,Ringkasan,,Loyalty Driver,Loyalty Driver,6,1,1730,Ya
+T_H1A_17,Bank yang memberikan promo sesuai dengan gaya hidup saya - XYZ,Bank yang memberikan promo sesuai dengan gaya hidup saya,XYZ,Ringkasan,,Loyalty Driver,Loyalty Driver,6,1,1730,Ya
+T_H1A_35,Bank yang membuat saya merasa up to date/keren/modern - XYZ,Bank yang membuat saya merasa up to date/keren/modern,XYZ,Ringkasan,,Loyalty Driver,Loyalty Driver,6,1,1730,Ya
+T_H1A_8,Bank yang memudahkan saya untuk bertransaksi karena digunakan oleh banyak orang - XYZ,Bank yang memudahkan saya untuk bertransaksi karena digunak…,XYZ,Ringkasan,,Loyalty Driver,Loyalty Driver,6,1,1730,Ya
+T_H1A_14,"Bank yang menawarkan produk untuk semua kebutuhan saya (tabungan regular, tabungan anak, tabungan rencana, tabungan dengan tambahan asuransi, tabungan haji, deposito, dan lain-lain) - XYZ",Bank yang menawarkan produk untuk semua kebutuhan saya (tab…,XYZ,Ringkasan,,Loyalty Driver,Loyalty Driver,6,1,1730,Ya
+T_H1A_2,"Ke depannya, saya pasti akan tetap menggunakan layanan dari Bank XYZ - XYZ","Ke depannya, saya pasti akan tetap menggunakan layanan dari…",XYZ,Ringkasan,,Loyalty Driver,Loyalty Driver,6,1,1730,Ya
+T_H1A_20,Memberikan saya kecepatan bertransaksi (real time ke semua bank dan pembayaran) - XYZ,Memberikan saya kecepatan bertransaksi (real time ke semua …,XYZ,Ringkasan,,Loyalty Driver,Loyalty Driver,6,1,1730,Ya
+T_H1A_5,Memberikan saya kemudahan untuk bertransaksi dimana pun dan kapan pun - XYZ,Memberikan saya kemudahan untuk bertransaksi dimana pun dan…,XYZ,Ringkasan,,Loyalty Driver,Loyalty Driver,6,1,1730,Ya
+T_H1A_32,Saya bangga menjadi nasabah bank ini dengan produk/layanan/promo yang berbeda yang tidak saya dapatkan dari bank lain - XYZ,Saya bangga menjadi nasabah bank ini dengan produk/layanan/…,XYZ,Ringkasan,,Loyalty Driver,Loyalty Driver,6,1,1730,Ya
+T_H1A_23,Saya merasa aman menyimpan uang dan bertransaksi di bank ini - XYZ,Saya merasa aman menyimpan uang dan bertransaksi di bank ini,XYZ,Ringkasan,,Loyalty Driver,Loyalty Driver,6,1,1730,Ya
+T_H1A_29,"Saya merasa dihargai menjadi nasabah bank ini dengan layanan yang ramah, peduli, dan tidak membeda-bedakan - XYZ",Saya merasa dihargai menjadi nasabah bank ini dengan layana…,XYZ,Ringkasan,,Loyalty Driver,Loyalty Driver,6,1,1730,Ya
+T_H1A_26,"Saya merasa nyaman bertransaksi dengan bank ini dengan segala fasilitas yang diberikan (sistem antrian, e-channel, mesin setor tunai) - XYZ",Saya merasa nyaman bertransaksi dengan bank ini dengan sega…,XYZ,Ringkasan,,Loyalty Driver,Loyalty Driver,6,1,1730,Ya
+T_C1B_63,Bank swasta terbesar di Indonesia - kompetitor,Bank swasta terbesar di Indonesia,Kompetitor,Brand Image,Brand Image,Citra & Kebanggaan,Atribut,6,0,529,Ya
+T_C1B_6,Bank yang digunakan banyak orang - kompetitor,Bank yang digunakan banyak orang,Kompetitor,Brand Image,Brand Image,Citra & Kebanggaan,Atribut,6,0,542,Ya
+T_C1B_60,Bank yang dimiliki oleh negara - kompetitor,Bank yang dimiliki oleh negara,Kompetitor,Brand Image,Brand Image,Citra & Kebanggaan,Atribut,6,0,533,Ya
+T_C1B_36,Bank yang membuat saya merasa bangga karena produk/layanan/promo yang tidak saya dapatkan dari bank lain - kompetitor,Bank yang membuat saya merasa bangga karena produk/layanan/…,Kompetitor,Brand Image,Brand Image,Citra & Kebanggaan,Atribut,6,0,543,Ya
+T_C1B_42,Bank yang membuat saya merasa prestigious/bergengsi - kompetitor,Bank yang membuat saya merasa prestigious/bergengsi,Kompetitor,Brand Image,Brand Image,Citra & Kebanggaan,Atribut,6,0,544,Ya
+T_C1B_3,Bank yang terkenal/terkemuka - kompetitor,Bank yang terkenal/terkemuka,Kompetitor,Brand Image,Brand Image,Citra & Kebanggaan,Atribut,6,0,544,Ya
+T_C1B_62,Bank swasta terbesar di Indonesia - XYZ,Bank swasta terbesar di Indonesia,XYZ,Brand Image,Brand Image,Citra & Kebanggaan,Atribut,6,1,1688,Ya
+T_C1A_21,Bank swasta terbesar di Indonesia,Bank swasta terbesar di Indonesia,XYZ,Brand Image,Brand Image,Citra & Kebanggaan,Importance,6,1,1730,Ya
+T_C1B_5,Bank yang digunakan banyak orang - XYZ,Bank yang digunakan banyak orang,XYZ,Brand Image,Brand Image,Citra & Kebanggaan,Atribut,6,1,1728,Ya
+T_C1A_2,Bank yang digunakan banyak orang,Bank yang digunakan banyak orang,XYZ,Brand Image,Brand Image,Citra & Kebanggaan,Importance,6,1,1730,Ya
+T_C1B_59,Bank yang dimiliki oleh negara - XYZ,Bank yang dimiliki oleh negara,XYZ,Brand Image,Brand Image,Citra & Kebanggaan,Atribut,6,1,1720,Ya
+T_C1A_20,Bank yang dimiliki oleh negara,Bank yang dimiliki oleh negara,XYZ,Brand Image,Brand Image,Citra & Kebanggaan,Importance,6,1,1730,Ya
+T_C1B_35,Bank yang membuat saya merasa bangga karena produk/layanan/promo yang tidak saya dapatkan dari bank lain - XYZ,Bank yang membuat saya merasa bangga karena produk/layanan/…,XYZ,Brand Image,Brand Image,Citra & Kebanggaan,Atribut,6,1,1722,Ya
+T_C1A_12,Bank yang membuat saya merasa bangga karena produk/layanan/promo yang tidak saya dapatkan dari bank lain,Bank yang membuat saya merasa bangga karena produk/layanan/…,XYZ,Brand Image,Brand Image,Citra & Kebanggaan,Importance,6,1,1730,Ya
+T_C1B_41,Bank yang membuat saya merasa prestigious/bergengsi - XYZ,Bank yang membuat saya merasa prestigious/bergengsi,XYZ,Brand Image,Brand Image,Citra & Kebanggaan,Atribut,6,1,1726,Ya
+T_C1A_14,Bank yang membuat saya merasa prestigious/bergengsi,Bank yang membuat saya merasa prestigious/bergengsi,XYZ,Brand Image,Brand Image,Citra & Kebanggaan,Importance,6,1,1730,Ya
+T_C1B_2,Bank yang terkenal/terkemuka - XYZ,Bank yang terkenal/terkemuka,XYZ,Brand Image,Brand Image,Citra & Kebanggaan,Atribut,6,1,1728,Ya
+T_C1A_1,Bank yang terkenal/terkemuka,Bank yang terkenal/terkemuka,XYZ,Brand Image,Brand Image,Citra & Kebanggaan,Importance,6,1,1730,Ya
+T_C1B_51,Bank yang memberikan banyak kemudahan - kompetitor,Bank yang memberikan banyak kemudahan,Kompetitor,Brand Image,Brand Image,Kemudahan & Teknologi,Atribut,6,0,543,Ya
+T_C1B_45,Bank yang memberikan kemudahan untuk bertransaksi dimanapun dan kapanpun - kompetitor,Bank yang memberikan kemudahan untuk bertransaksi dimanapun…,Kompetitor,Brand Image,Brand Image,Kemudahan & Teknologi,Atribut,6,0,545,Ya
+T_C1B_15,Bank yang memiliki banyak ATM - kompetitor,Bank yang memiliki banyak ATM,Kompetitor,Brand Image,Brand Image,Kemudahan & Teknologi,Atribut,6,0,542,Ya
+T_C1B_18,Bank yang memiliki banyak kantor cabang - kompetitor,Bank yang memiliki banyak kantor cabang,Kompetitor,Brand Image,Brand Image,Kemudahan & Teknologi,Atribut,6,0,545,Ya
+T_C1B_48,Bank yang mempermudah bisnis saya - kompetitor,Bank yang mempermudah bisnis saya,Kompetitor,Brand Image,Brand Image,Kemudahan & Teknologi,Atribut,6,0,543,Ya
+T_C1B_57,Bank yang selalu menggunakan teknologi terbaru - kompetitor,Bank yang selalu menggunakan teknologi terbaru,Kompetitor,Brand Image,Brand Image,Kemudahan & Teknologi,Atribut,6,0,542,Ya
+T_C1B_69,"Memiliki fitur transaksi di e-channel lengkap (ATM, mobile banking, internet banking) lengkap - kompetitor","Memiliki fitur transaksi di e-channel lengkap (ATM, mobile …",Kompetitor,Brand Image,Brand Image,Kemudahan & Teknologi,Atribut,6,0,544,Ya
+T_C1B_30,"Menyediakan banyak channel (call center, sms, email, dsb) untuk nasabah menyampaikan keluhan/saran - kompetitor","Menyediakan banyak channel (call center, sms, email, dsb) u…",Kompetitor,Brand Image,Brand Image,Kemudahan & Teknologi,Atribut,6,0,543,Ya
+T_C1B_27,Menyediakan layanan online terkait dengan informasi produk - kompetitor,Menyediakan layanan online terkait dengan informasi produk,Kompetitor,Brand Image,Brand Image,Kemudahan & Teknologi,Atribut,6,0,544,Ya
+T_C1B_50,Bank yang memberikan banyak kemudahan - XYZ,Bank yang memberikan banyak kemudahan,XYZ,Brand Image,Brand Image,Kemudahan & Teknologi,Atribut,6,1,1727,Ya
+T_C1A_17,Bank yang memberikan banyak kemudahan,Bank yang memberikan banyak kemudahan,XYZ,Brand Image,Brand Image,Kemudahan & Teknologi,Importance,6,1,1730,Ya
+T_C1B_44,Bank yang memberikan kemudahan untuk bertransaksi dimanapun dan kapanpun - XYZ,Bank yang memberikan kemudahan untuk bertransaksi dimanapun…,XYZ,Brand Image,Brand Image,Kemudahan & Teknologi,Atribut,6,1,1729,Ya
+T_C1A_15,Bank yang memberikan kemudahan untuk bertransaksi dimanapun dan kapanpun,Bank yang memberikan kemudahan untuk bertransaksi dimanapun…,XYZ,Brand Image,Brand Image,Kemudahan & Teknologi,Importance,6,1,1730,Ya
+T_C1B_14,Bank yang memiliki banyak ATM - XYZ,Bank yang memiliki banyak ATM,XYZ,Brand Image,Brand Image,Kemudahan & Teknologi,Atribut,6,1,1722,Ya
+T_C1A_5,Bank yang memiliki banyak ATM,Bank yang memiliki banyak ATM,XYZ,Brand Image,Brand Image,Kemudahan & Teknologi,Importance,6,1,1730,Ya
+T_C1B_17,Bank yang memiliki banyak kantor cabang - XYZ,Bank yang memiliki banyak kantor cabang,XYZ,Brand Image,Brand Image,Kemudahan & Teknologi,Atribut,6,1,1724,Ya
+T_C1A_6,Bank yang memiliki banyak kantor cabang,Bank yang memiliki banyak kantor cabang,XYZ,Brand Image,Brand Image,Kemudahan & Teknologi,Importance,6,1,1730,Ya
+T_C1B_47,Bank yang mempermudah bisnis saya - XYZ,Bank yang mempermudah bisnis saya,XYZ,Brand Image,Brand Image,Kemudahan & Teknologi,Atribut,6,1,1726,Ya
+T_C1A_16,Bank yang mempermudah bisnis saya,Bank yang mempermudah bisnis saya,XYZ,Brand Image,Brand Image,Kemudahan & Teknologi,Importance,6,1,1730,Ya
+T_C1B_56,Bank yang selalu menggunakan teknologi terbaru - XYZ,Bank yang selalu menggunakan teknologi terbaru,XYZ,Brand Image,Brand Image,Kemudahan & Teknologi,Atribut,6,1,1728,Ya
+T_C1A_19,Bank yang selalu menggunakan teknologi terbaru,Bank yang selalu menggunakan teknologi terbaru,XYZ,Brand Image,Brand Image,Kemudahan & Teknologi,Importance,6,1,1730,Ya
+T_C1B_68,"Memiliki fitur transaksi di e-channel lengkap (ATM, mobile banking, internet banking) lengkap - XYZ","Memiliki fitur transaksi di e-channel lengkap (ATM, mobile …",XYZ,Brand Image,Brand Image,Kemudahan & Teknologi,Atribut,6,1,1729,Ya
+T_C1A_23,"Memiliki fitur transaksi di e-channel lengkap (ATM, mobile banking, internet banking) lengkap","Memiliki fitur transaksi di e-channel lengkap (ATM, mobile …",XYZ,Brand Image,Brand Image,Kemudahan & Teknologi,Importance,6,1,1730,Ya
+T_C1B_29,"Menyediakan banyak channel (call center, sms, email, dsb) untuk nasabah menyampaikan keluhan/saran - XYZ","Menyediakan banyak channel (call center, sms, email, dsb) u…",XYZ,Brand Image,Brand Image,Kemudahan & Teknologi,Atribut,6,1,1727,Ya
+T_C1A_10,"Menyediakan banyak channel (call center, sms, email, dsb) untuk nasabah menyampaikan keluhan/saran","Menyediakan banyak channel (call center, sms, email, dsb) u…",XYZ,Brand Image,Brand Image,Kemudahan & Teknologi,Importance,6,1,1730,Ya
+T_C1B_26,Menyediakan layanan online terkait dengan informasi produk - XYZ,Menyediakan layanan online terkait dengan informasi produk,XYZ,Brand Image,Brand Image,Kemudahan & Teknologi,Atribut,6,1,1728,Ya
+T_C1A_9,Menyediakan layanan online terkait dengan informasi produk,Menyediakan layanan online terkait dengan informasi produk,XYZ,Brand Image,Brand Image,Kemudahan & Teknologi,Importance,6,1,1730,Ya
+T_C1B_9,Bank yang membuat saya merasa aman - kompetitor,Bank yang membuat saya merasa aman,Kompetitor,Brand Image,Brand Image,Kepercayaan & Reputasi,Atribut,6,0,544,Ya
+T_C1B_12,Bank yang membuat saya merasa dihargai menjadi nasabah bank ini - kompetitor,Bank yang membuat saya merasa dihargai menjadi nasabah bank…,Kompetitor,Brand Image,Brand Image,Kepercayaan & Reputasi,Atribut,6,0,543,Ya
+T_C1B_39,Bank yang membuat saya merasa percaya diri dan dapat mengontrol penuh kebutuhan transaksi perbankan saya - kompetitor,Bank yang membuat saya merasa percaya diri dan dapat mengon…,Kompetitor,Brand Image,Brand Image,Kepercayaan & Reputasi,Atribut,6,0,542,Ya
+T_C1B_54,Bank yang memiliki kinerja bisnis yang baik - kompetitor,Bank yang memiliki kinerja bisnis yang baik,Kompetitor,Brand Image,Brand Image,Kepercayaan & Reputasi,Atribut,6,0,542,Ya
+T_C1B_21,Bank yang memiliki reputasi yang baik - kompetitor,Bank yang memiliki reputasi yang baik,Kompetitor,Brand Image,Brand Image,Kepercayaan & Reputasi,Atribut,6,0,544,Ya
+T_C1B_8,Bank yang membuat saya merasa aman - XYZ,Bank yang membuat saya merasa aman,XYZ,Brand Image,Brand Image,Kepercayaan & Reputasi,Atribut,6,1,1728,Ya
+T_C1A_3,Bank yang membuat saya merasa aman,Bank yang membuat saya merasa aman,XYZ,Brand Image,Brand Image,Kepercayaan & Reputasi,Importance,6,1,1730,Ya
+T_C1B_11,Bank yang membuat saya merasa dihargai menjadi nasabah bank ini - XYZ,Bank yang membuat saya merasa dihargai menjadi nasabah bank…,XYZ,Brand Image,Brand Image,Kepercayaan & Reputasi,Atribut,6,1,1727,Ya
+T_C1A_4,Bank yang membuat saya merasa dihargai menjadi nasabah bank ini,Bank yang membuat saya merasa dihargai menjadi nasabah bank…,XYZ,Brand Image,Brand Image,Kepercayaan & Reputasi,Importance,6,1,1730,Ya
+T_C1B_38,Bank yang membuat saya merasa percaya diri dan dapat mengontrol penuh kebutuhan transaksi perbankan saya - XYZ,Bank yang membuat saya merasa percaya diri dan dapat mengon…,XYZ,Brand Image,Brand Image,Kepercayaan & Reputasi,Atribut,6,1,1727,Ya
+T_C1A_13,Bank yang membuat saya merasa percaya diri dan dapat mengontrol penuh kebutuhan transaksi perbankan saya,Bank yang membuat saya merasa percaya diri dan dapat mengon…,XYZ,Brand Image,Brand Image,Kepercayaan & Reputasi,Importance,6,1,1730,Ya
+T_C1B_53,Bank yang memiliki kinerja bisnis yang baik - XYZ,Bank yang memiliki kinerja bisnis yang baik,XYZ,Brand Image,Brand Image,Kepercayaan & Reputasi,Atribut,6,1,1728,Ya
+T_C1A_18,Bank yang memiliki kinerja bisnis yang baik,Bank yang memiliki kinerja bisnis yang baik,XYZ,Brand Image,Brand Image,Kepercayaan & Reputasi,Importance,6,1,1730,Ya
+T_C1B_20,Bank yang memiliki reputasi yang baik - XYZ,Bank yang memiliki reputasi yang baik,XYZ,Brand Image,Brand Image,Kepercayaan & Reputasi,Atribut,6,1,1726,Ya
+T_C1A_7,Bank yang memiliki reputasi yang baik,Bank yang memiliki reputasi yang baik,XYZ,Brand Image,Brand Image,Kepercayaan & Reputasi,Importance,6,1,1730,Ya
+T_C1B_72,Bank dengan segala produk dan fasilitas yang membuat saya merasa cukup dengan menjadi nasabah satu bank saja - kompetitor,Bank dengan segala produk dan fasilitas yang membuat saya m…,Kompetitor,Brand Image,Brand Image,Produk & Manfaat,Atribut,6,0,544,Ya
+T_C1B_24,Bank yang menawarkan produk/layanan yang lengkap - kompetitor,Bank yang menawarkan produk/layanan yang lengkap,Kompetitor,Brand Image,Brand Image,Produk & Manfaat,Atribut,6,0,545,Ya
+T_C1B_33,Bank yang menguntungkan untuk investasi/pengembangan kekayaan/uang saya - kompetitor,Bank yang menguntungkan untuk investasi/pengembangan kekaya…,Kompetitor,Brand Image,Brand Image,Produk & Manfaat,Atribut,6,0,541,Ya
+T_C1B_66,"Memberikan keuntungan saat digunakan untuk bertransaksi (diskon, cashback, point rewards) - kompetitor",Memberikan keuntungan saat digunakan untuk bertransaksi (di…,Kompetitor,Brand Image,Brand Image,Produk & Manfaat,Atribut,6,0,543,Ya
+T_C1B_71,Bank dengan segala produk dan fasilitas yang membuat saya merasa cukup dengan menjadi nasabah satu bank saja - XYZ,Bank dengan segala produk dan fasilitas yang membuat saya m…,XYZ,Brand Image,Brand Image,Produk & Manfaat,Atribut,6,1,1727,Ya
+T_C1A_24,Bank dengan segala produk dan fasilitas yang membuat saya merasa cukup dengan menjadi nasabah satu bank saja,Bank dengan segala produk dan fasilitas yang membuat saya m…,XYZ,Brand Image,Brand Image,Produk & Manfaat,Importance,6,1,1730,Ya
+T_C1B_23,Bank yang menawarkan produk/layanan yang lengkap - XYZ,Bank yang menawarkan produk/layanan yang lengkap,XYZ,Brand Image,Brand Image,Produk & Manfaat,Atribut,6,1,1727,Ya
+T_C1A_8,Bank yang menawarkan produk/layanan yang lengkap,Bank yang menawarkan produk/layanan yang lengkap,XYZ,Brand Image,Brand Image,Produk & Manfaat,Importance,6,1,1730,Ya
+T_C1B_32,Bank yang menguntungkan untuk investasi/pengembangan kekayaan/uang saya - XYZ,Bank yang menguntungkan untuk investasi/pengembangan kekaya…,XYZ,Brand Image,Brand Image,Produk & Manfaat,Atribut,6,1,1726,Ya
+T_C1A_11,Bank yang menguntungkan untuk investasi/pengembangan kekayaan/uang saya,Bank yang menguntungkan untuk investasi/pengembangan kekaya…,XYZ,Brand Image,Brand Image,Produk & Manfaat,Importance,6,1,1730,Ya
+T_C1B_65,"Memberikan keuntungan saat digunakan untuk bertransaksi (diskon, cashback, point rewards) - XYZ",Memberikan keuntungan saat digunakan untuk bertransaksi (di…,XYZ,Brand Image,Brand Image,Produk & Manfaat,Atribut,6,1,1716,Ya
+T_C1A_22,"Memberikan keuntungan saat digunakan untuk bertransaksi (diskon, cashback, point rewards)",Memberikan keuntungan saat digunakan untuk bertransaksi (di…,XYZ,Brand Image,Brand Image,Produk & Manfaat,Importance,6,1,1730,Ya
+T_KC2_60,"Area ruang Tertata dengan baik, rapi dan teratur - kompetitor","Area ruang Tertata dengan baik, rapi dan teratur",Kompetitor,Branch Facilities,Branch Facilities,Banking Hall & Kenyamanan,Atribut,6,0,544,Ya
+T_KC2_48,Diputarkan lagu lembut yang mengalun di area banking hall - kompetitor,Diputarkan lagu lembut yang mengalun di area banking hall,Kompetitor,Branch Facilities,Branch Facilities,Banking Hall & Kenyamanan,Atribut,6,0,533,Ya
+T_KC2_24,Kebersihan pada area masuk cabang - kompetitor,Kebersihan pada area masuk cabang,Kompetitor,Branch Facilities,Branch Facilities,Banking Hall & Kenyamanan,Atribut,6,0,544,Ya
+T_KC2_9,"Penampilan luar bangunan cabang dan papan nama cabang dalam keadaan bersih, jelas dan terawat - kompetitor",Penampilan luar bangunan cabang dan papan nama cabang dalam…,Kompetitor,Branch Facilities,Branch Facilities,Banking Hall & Kenyamanan,Atribut,6,0,545,Ya
+T_KC2_69,Tersedianya ruang laktasi - kompetitor,Tersedianya ruang laktasi,Kompetitor,Branch Facilities,Branch Facilities,Banking Hall & Kenyamanan,Atribut,6,0,532,Ya
+T_KC1_20,"Area ruang Tertata dengan baik, rapi dan teratur","Area ruang Tertata dengan baik, rapi dan teratur",XYZ,Branch Facilities,Branch Facilities,Banking Hall & Kenyamanan,Atribut,6,1,1730,Ya
+T_KC2_59,"Area ruang Tertata dengan baik, rapi dan teratur - XYZ","Area ruang Tertata dengan baik, rapi dan teratur",XYZ,Branch Facilities,Branch Facilities,Banking Hall & Kenyamanan,Atribut,6,1,1726,Ya
+T_KC1_16,Diputarkan lagu lembut yang mengalun di area banking hall,Diputarkan lagu lembut yang mengalun di area banking hall,XYZ,Branch Facilities,Branch Facilities,Banking Hall & Kenyamanan,Atribut,6,1,1730,Ya
+T_KC2_47,Diputarkan lagu lembut yang mengalun di area banking hall - XYZ,Diputarkan lagu lembut yang mengalun di area banking hall,XYZ,Branch Facilities,Branch Facilities,Banking Hall & Kenyamanan,Atribut,6,1,1653,Ya
+T_KC1_8,Kebersihan pada area masuk cabang,Kebersihan pada area masuk cabang,XYZ,Branch Facilities,Branch Facilities,Banking Hall & Kenyamanan,Atribut,6,1,1730,Ya
+T_KC2_23,Kebersihan pada area masuk cabang - XYZ,Kebersihan pada area masuk cabang,XYZ,Branch Facilities,Branch Facilities,Banking Hall & Kenyamanan,Atribut,6,1,1730,Ya
+T_KC1_3,"Penampilan luar bangunan cabang dan papan nama cabang dalam keadaan bersih, jelas dan terawat",Penampilan luar bangunan cabang dan papan nama cabang dalam…,XYZ,Branch Facilities,Branch Facilities,Banking Hall & Kenyamanan,Atribut,6,1,1730,Ya
+T_KC2_8,"Penampilan luar bangunan cabang dan papan nama cabang dalam keadaan bersih, jelas dan terawat - XYZ",Penampilan luar bangunan cabang dan papan nama cabang dalam…,XYZ,Branch Facilities,Branch Facilities,Banking Hall & Kenyamanan,Atribut,6,1,1728,Ya
+T_KC1_23,Tersedianya ruang laktasi,Tersedianya ruang laktasi,XYZ,Branch Facilities,Branch Facilities,Banking Hall & Kenyamanan,Atribut,6,1,1730,Ya
+T_KC2_68,Tersedianya ruang laktasi - XYZ,Tersedianya ruang laktasi,XYZ,Branch Facilities,Branch Facilities,Banking Hall & Kenyamanan,Atribut,6,1,1687,Ya
+T_KC2_3,Kantor cabangnya banyak (dekat dengan tempat tinggal dan atau tempat kerja saya) - kompetitor,Kantor cabangnya banyak (dekat dengan tempat tinggal dan at…,Kompetitor,Branch Facilities,Branch Facilities,Fasilitas Lain,Atribut,6,0,544,Ya
+T_KC2_6,Menyediakan layanan weekend banking - kompetitor,Menyediakan layanan weekend banking,Kompetitor,Branch Facilities,Branch Facilities,Fasilitas Lain,Atribut,6,0,536,Ya
+T_KC2_63,Tata letak di kantor cabang mudah untuk diikuti dan mudah untuk menemukan sesuatu yang dibutuhkan - kompetitor,Tata letak di kantor cabang mudah untuk diikuti dan mudah u…,Kompetitor,Branch Facilities,Branch Facilities,Fasilitas Lain,Atribut,6,0,543,Ya
+T_KC2_105,Tempat sampah tidak penuh - kompetitor,Tempat sampah tidak penuh,Kompetitor,Branch Facilities,Branch Facilities,Fasilitas Lain,Atribut,6,0,544,Ya
+T_KC2_66,Terdapat tanaman hidup - kompetitor,Terdapat tanaman hidup,Kompetitor,Branch Facilities,Branch Facilities,Fasilitas Lain,Atribut,6,0,541,Ya
+T_KC2_54,Terdapat tempat sampah dan mudah ditemukan - kompetitor,Terdapat tempat sampah dan mudah ditemukan,Kompetitor,Branch Facilities,Branch Facilities,Fasilitas Lain,Atribut,6,0,543,Ya
+T_KC1_1,Kantor cabangnya banyak (dekat dengan tempat tinggal dan atau tempat kerja saya),Kantor cabangnya banyak (dekat dengan tempat tinggal dan at…,XYZ,Branch Facilities,Branch Facilities,Fasilitas Lain,Atribut,6,1,1730,Ya
+T_KC2_2,Kantor cabangnya banyak (dekat dengan tempat tinggal dan atau tempat kerja saya) - XYZ,Kantor cabangnya banyak (dekat dengan tempat tinggal dan at…,XYZ,Branch Facilities,Branch Facilities,Fasilitas Lain,Atribut,6,1,1724,Ya
+T_KC1_2,Menyediakan layanan weekend banking,Menyediakan layanan weekend banking,XYZ,Branch Facilities,Branch Facilities,Fasilitas Lain,Atribut,6,1,1730,Ya
+T_KC2_5,Menyediakan layanan weekend banking - XYZ,Menyediakan layanan weekend banking,XYZ,Branch Facilities,Branch Facilities,Fasilitas Lain,Atribut,6,1,1696,Ya
+T_KC1_21,Tata letak di kantor cabang mudah untuk diikuti dan mudah untuk menemukan sesuatu yang dibutuhkan,Tata letak di kantor cabang mudah untuk diikuti dan mudah u…,XYZ,Branch Facilities,Branch Facilities,Fasilitas Lain,Atribut,6,1,1730,Ya
+T_KC2_62,Tata letak di kantor cabang mudah untuk diikuti dan mudah untuk menemukan sesuatu yang dibutuhkan - XYZ,Tata letak di kantor cabang mudah untuk diikuti dan mudah u…,XYZ,Branch Facilities,Branch Facilities,Fasilitas Lain,Atribut,6,1,1727,Ya
+T_KC1_35,Tempat sampah tidak penuh,Tempat sampah tidak penuh,XYZ,Branch Facilities,Branch Facilities,Fasilitas Lain,Atribut,6,1,1730,Ya
+T_KC2_104,Tempat sampah tidak penuh - XYZ,Tempat sampah tidak penuh,XYZ,Branch Facilities,Branch Facilities,Fasilitas Lain,Atribut,6,1,1728,Ya
+T_KC1_22,Terdapat tanaman hidup,Terdapat tanaman hidup,XYZ,Branch Facilities,Branch Facilities,Fasilitas Lain,Atribut,6,1,1730,Ya
+T_KC2_65,Terdapat tanaman hidup - XYZ,Terdapat tanaman hidup,XYZ,Branch Facilities,Branch Facilities,Fasilitas Lain,Atribut,6,1,1728,Ya
+T_KC1_18,Terdapat tempat sampah dan mudah ditemukan,Terdapat tempat sampah dan mudah ditemukan,XYZ,Branch Facilities,Branch Facilities,Fasilitas Lain,Atribut,6,1,1730,Ya
+T_KC2_53,Terdapat tempat sampah dan mudah ditemukan - XYZ,Terdapat tempat sampah dan mudah ditemukan,XYZ,Branch Facilities,Branch Facilities,Fasilitas Lain,Atribut,6,1,1729,Ya
+T_KC2_108,"Dengan mempertimbangkan berbagai hal, bagaimana penilaian keseluruhan terhadap JUMLAH & WAKTU OPERASIONAL bank - kompetitor","Dengan mempertimbangkan berbagai hal, bagaimana penilaian k…",Kompetitor,Branch Facilities,Branch Facilities,Overall,Overall,6,0,545,Ya
+T_KC2_111,"Dengan mempertimbangkan berbagai hal, bagaimana penilaian keseluruhan terhadap RUANG PARKIR bank ….. untuk cabang yang ada di gedung sendiri/ruko - kompetitor","Dengan mempertimbangkan berbagai hal, bagaimana penilaian k…",Kompetitor,Branch Facilities,Branch Facilities,Overall,Overall,6,0,545,Ya
+T_KC2_114,"Dengan mempertimbangkan berbagai hal, bagaimana penilaian keseluruhan terhadap BANKING HALL bank….. - kompetitor","Dengan mempertimbangkan berbagai hal, bagaimana penilaian k…",Kompetitor,Branch Facilities,Branch Facilities,Overall,Overall,6,0,544,Ya
+T_KC2_117,"Dengan mempertimbangkan berbagai hal, bagaimana penilaian keseluruhan terhadap TOILET bank….. - kompetitor","Dengan mempertimbangkan berbagai hal, bagaimana penilaian k…",Kompetitor,Branch Facilities,Branch Facilities,Overall,Overall,6,0,540,Ya
+T_KC2_107,"Dengan mempertimbangkan berbagai hal, bagaimana penilaian keseluruhan terhadap JUMLAH & WAKTU OPERASIONAL bank - XYZ","Dengan mempertimbangkan berbagai hal, bagaimana penilaian k…",XYZ,Branch Facilities,Branch Facilities,Overall,Overall,6,1,1730,Ya
+T_KC2_110,"Dengan mempertimbangkan berbagai hal, bagaimana penilaian keseluruhan terhadap RUANG PARKIR bank ….. untuk cabang yang ada di gedung sendiri/ruko - XYZ","Dengan mempertimbangkan berbagai hal, bagaimana penilaian k…",XYZ,Branch Facilities,Branch Facilities,Overall,Overall,6,1,1729,Ya
+T_KC2_113,"Dengan mempertimbangkan berbagai hal, bagaimana penilaian keseluruhan terhadap BANKING HALL bank….. - XYZ","Dengan mempertimbangkan berbagai hal, bagaimana penilaian k…",XYZ,Branch Facilities,Branch Facilities,Overall,Overall,6,1,1728,Ya
+T_KC2_116,"Dengan mempertimbangkan berbagai hal, bagaimana penilaian keseluruhan terhadap TOILET bank….. - XYZ","Dengan mempertimbangkan berbagai hal, bagaimana penilaian k…",XYZ,Branch Facilities,Branch Facilities,Overall,Overall,6,1,1724,Ya
+T_KC2_15,Ada petugas Sekuriti yang mengatur di area parkir (khusus untuk cabang di gedung sendiri/ruko dan cabang yang menghadap ke tempat parkir) - kompetitor,Ada petugas Sekuriti yang mengatur di area parkir (khusus u…,Kompetitor,Branch Facilities,Branch Facilities,Parkir,Atribut,6,0,543,Ya
+T_KC2_21,Kebersihan di area parkir - kompetitor,Kebersihan di area parkir,Kompetitor,Branch Facilities,Branch Facilities,Parkir,Atribut,6,0,545,Ya
+T_KC2_18,"Petunjuk arah parkir untuk nasabah yang jelas dan bersih (petunjuk arah, tanda-tanda seperti “area parkir mobil”, “area parkir motor”) - kompetitor",Petunjuk arah parkir untuk nasabah yang jelas dan bersih (p…,Kompetitor,Branch Facilities,Branch Facilities,Parkir,Atribut,6,0,544,Ya
+T_KC2_12,Tersedia area parkir (khusus untuk cabang di gedung sendiri/ruko dan cabang yang menghadap ke tempat parkir) - kompetitor,Tersedia area parkir (khusus untuk cabang di gedung sendiri…,Kompetitor,Branch Facilities,Branch Facilities,Parkir,Atribut,6,0,544,Ya
+T_KC1_5,Ada petugas Sekuriti yang mengatur di area parkir (khusus untuk cabang di gedung sendiri/ruko dan cabang yang menghadap ke tempat parkir,Ada petugas Sekuriti yang mengatur di area parkir (khusus u…,XYZ,Branch Facilities,Branch Facilities,Parkir,Atribut,6,1,1730,Ya
+T_KC2_14,Ada petugas Sekuriti yang mengatur di area parkir (khusus untuk cabang di gedung sendiri/ruko dan cabang yang menghadap ke tempat parkir) - XYZ,Ada petugas Sekuriti yang mengatur di area parkir (khusus u…,XYZ,Branch Facilities,Branch Facilities,Parkir,Atribut,6,1,1717,Ya
+T_KC1_7,Kebersihan di area parkir,Kebersihan di area parkir,XYZ,Branch Facilities,Branch Facilities,Parkir,Atribut,6,1,1730,Ya
+T_KC2_20,Kebersihan di area parkir - XYZ,Kebersihan di area parkir,XYZ,Branch Facilities,Branch Facilities,Parkir,Atribut,6,1,1727,Ya
+T_KC1_6,"Petunjuk arah parkir untuk nasabah yang jelas dan bersih (petunjuk arah, tanda-tanda seperti â€œarea parkir mobilâ€, â€œarea parkir motorâ€",Petunjuk arah parkir untuk nasabah yang jelas dan bersih (p…,XYZ,Branch Facilities,Branch Facilities,Parkir,Atribut,6,1,1730,Ya
+T_KC2_17,"Petunjuk arah parkir untuk nasabah yang jelas dan bersih (petunjuk arah, tanda-tanda seperti “area parkir mobil”, “area parkir motor”) - XYZ",Petunjuk arah parkir untuk nasabah yang jelas dan bersih (p…,XYZ,Branch Facilities,Branch Facilities,Parkir,Atribut,6,1,1727,Ya
+T_KC1_4,Tersedia area parkir (khusus untuk cabang di gedung sendiri/ruko dan cabang yang menghadap ke tempat parkir,Tersedia area parkir (khusus untuk cabang di gedung sendiri…,XYZ,Branch Facilities,Branch Facilities,Parkir,Atribut,6,1,1730,Ya
+T_KC2_11,Tersedia area parkir (khusus untuk cabang di gedung sendiri/ruko dan cabang yang menghadap ke tempat parkir) - XYZ,Tersedia area parkir (khusus untuk cabang di gedung sendiri…,XYZ,Branch Facilities,Branch Facilities,Parkir,Atribut,6,1,1727,Ya
+T_KC2_45,Area ruang tunggunya wangi - kompetitor,Area ruang tunggunya wangi,Kompetitor,Branch Facilities,Branch Facilities,Ruang Tunggu & Antrian,Atribut,6,0,545,Ya
+T_KC2_51,Banking hall/area ruang tunggunya bersih - kompetitor,Banking hall/area ruang tunggunya bersih,Kompetitor,Branch Facilities,Branch Facilities,Ruang Tunggu & Antrian,Atribut,6,0,545,Ya
+T_KC2_39,Disediakan Wifi gratis di ruang tunggu - kompetitor,Disediakan Wifi gratis di ruang tunggu,Kompetitor,Branch Facilities,Branch Facilities,Ruang Tunggu & Antrian,Atribut,6,0,543,Ya
+T_KC2_27,"Kebersihan dan kenyamanan area Banking Hall (kursi ruang tunggu, AC, TV, Pencahayaan, harum, dll) - kompetitor",Kebersihan dan kenyamanan area Banking Hall (kursi ruang tu…,Kompetitor,Branch Facilities,Branch Facilities,Ruang Tunggu & Antrian,Atribut,6,0,545,Ya
+T_KC2_33,Pendingin ruangan di ruang tunggu sejuk - kompetitor,Pendingin ruangan di ruang tunggu sejuk,Kompetitor,Branch Facilities,Branch Facilities,Ruang Tunggu & Antrian,Atribut,6,0,545,Ya
+T_KC2_36,Ruang tunggu nyaman - kompetitor,Ruang tunggu nyaman,Kompetitor,Branch Facilities,Branch Facilities,Ruang Tunggu & Antrian,Atribut,6,0,544,Ya
+T_KC2_42,Tersedia TV di ruang tunggu - kompetitor,Tersedia TV di ruang tunggu,Kompetitor,Branch Facilities,Branch Facilities,Ruang Tunggu & Antrian,Atribut,6,0,544,Ya
+T_KC2_30,Tersedia tempat duduk yang cukup di ruang tunggu - kompetitor,Tersedia tempat duduk yang cukup di ruang tunggu,Kompetitor,Branch Facilities,Branch Facilities,Ruang Tunggu & Antrian,Atribut,6,0,545,Ya
+T_KC1_15,Area ruang tunggunya wangi,Area ruang tunggunya wangi,XYZ,Branch Facilities,Branch Facilities,Ruang Tunggu & Antrian,Atribut,6,1,1730,Ya
+T_KC2_44,Area ruang tunggunya wangi - XYZ,Area ruang tunggunya wangi,XYZ,Branch Facilities,Branch Facilities,Ruang Tunggu & Antrian,Atribut,6,1,1727,Ya
+T_KC1_17,Banking hall/area ruang tunggunya bersih,Banking hall/area ruang tunggunya bersih,XYZ,Branch Facilities,Branch Facilities,Ruang Tunggu & Antrian,Atribut,6,1,1730,Ya
+T_KC2_50,Banking hall/area ruang tunggunya bersih - XYZ,Banking hall/area ruang tunggunya bersih,XYZ,Branch Facilities,Branch Facilities,Ruang Tunggu & Antrian,Atribut,6,1,1728,Ya
+T_KC1_13,Disediakan Wifi gratis di ruang tunggu,Disediakan Wifi gratis di ruang tunggu,XYZ,Branch Facilities,Branch Facilities,Ruang Tunggu & Antrian,Atribut,6,1,1730,Ya
+T_KC2_38,Disediakan Wifi gratis di ruang tunggu - XYZ,Disediakan Wifi gratis di ruang tunggu,XYZ,Branch Facilities,Branch Facilities,Ruang Tunggu & Antrian,Atribut,6,1,1704,Ya
+T_KC1_9,"Kebersihan dan kenyamanan area Banking Hall (kursi ruang tunggu, AC, TV, Pencahayaan, harum, dll)",Kebersihan dan kenyamanan area Banking Hall (kursi ruang tu…,XYZ,Branch Facilities,Branch Facilities,Ruang Tunggu & Antrian,Atribut,6,1,1730,Ya
+T_KC2_26,"Kebersihan dan kenyamanan area Banking Hall (kursi ruang tunggu, AC, TV, Pencahayaan, harum, dll) - XYZ",Kebersihan dan kenyamanan area Banking Hall (kursi ruang tu…,XYZ,Branch Facilities,Branch Facilities,Ruang Tunggu & Antrian,Atribut,6,1,1728,Ya
+T_KC1_11,Pendingin ruangan di ruang tunggu sejuk,Pendingin ruangan di ruang tunggu sejuk,XYZ,Branch Facilities,Branch Facilities,Ruang Tunggu & Antrian,Atribut,6,1,1730,Ya
+T_KC2_32,Pendingin ruangan di ruang tunggu sejuk - XYZ,Pendingin ruangan di ruang tunggu sejuk,XYZ,Branch Facilities,Branch Facilities,Ruang Tunggu & Antrian,Atribut,6,1,1729,Ya
+T_KC1_12,Ruang tunggu nyaman,Ruang tunggu nyaman,XYZ,Branch Facilities,Branch Facilities,Ruang Tunggu & Antrian,Atribut,6,1,1730,Ya
+T_KC2_35,Ruang tunggu nyaman - XYZ,Ruang tunggu nyaman,XYZ,Branch Facilities,Branch Facilities,Ruang Tunggu & Antrian,Atribut,6,1,1727,Ya
+T_KC1_14,Tersedia TV di ruang tunggu,Tersedia TV di ruang tunggu,XYZ,Branch Facilities,Branch Facilities,Ruang Tunggu & Antrian,Atribut,6,1,1730,Ya
+T_KC2_41,Tersedia TV di ruang tunggu - XYZ,Tersedia TV di ruang tunggu,XYZ,Branch Facilities,Branch Facilities,Ruang Tunggu & Antrian,Atribut,6,1,1726,Ya
+T_KC1_10,Tersedia tempat duduk yang cukup di ruang tunggu,Tersedia tempat duduk yang cukup di ruang tunggu,XYZ,Branch Facilities,Branch Facilities,Ruang Tunggu & Antrian,Atribut,6,1,1730,Ya
+T_KC2_29,Tersedia tempat duduk yang cukup di ruang tunggu - XYZ,Tersedia tempat duduk yang cukup di ruang tunggu,XYZ,Branch Facilities,Branch Facilities,Ruang Tunggu & Antrian,Atribut,6,1,1729,Ya
+T_KC2_72,Kemudahan mengisi data-data pembukaan rekening baru pada e-form (formulir elektronik) - kompetitor,Kemudahan mengisi data-data pembukaan rekening baru pada e-…,Kompetitor,Branch Facilities,Branch Facilities,Sarana Pendukung,Atribut,6,0,539,Ya
+T_KC1_24,Kemudahan mengisi data-data pembukaan rekening baru pada e-form (formulir elektronik),Kemudahan mengisi data-data pembukaan rekening baru pada e-…,XYZ,Branch Facilities,Branch Facilities,Sarana Pendukung,Atribut,6,1,1730,Ya
+T_KC2_71,Kemudahan mengisi data-data pembukaan rekening baru pada e-form (formulir elektronik) - XYZ,Kemudahan mengisi data-data pembukaan rekening baru pada e-…,XYZ,Branch Facilities,Branch Facilities,Sarana Pendukung,Atribut,6,1,1704,Ya
+T_KC2_96,Air selalu mengalir dengan lancar di semua keran yang ada di toilet - kompetitor,Air selalu mengalir dengan lancar di semua keran yang ada d…,Kompetitor,Branch Facilities,Branch Facilities,Toilet,Atribut,6,0,542,Ya
+T_KC2_93,Selalu tersedia sabun pencuci tangan di toilet - kompetitor,Selalu tersedia sabun pencuci tangan di toilet,Kompetitor,Branch Facilities,Branch Facilities,Toilet,Atribut,6,0,543,Ya
+T_KC2_90,Selalu tersedia tisu di toilet - kompetitor,Selalu tersedia tisu di toilet,Kompetitor,Branch Facilities,Branch Facilities,Toilet,Atribut,6,0,542,Ya
+T_KC2_75,Terdapat petunjuk arah ke toilet - kompetitor,Terdapat petunjuk arah ke toilet,Kompetitor,Branch Facilities,Branch Facilities,Toilet,Atribut,6,0,544,Ya
+T_KC2_102,Terdapat tempat sampah di toilet dan mudah ditemukan - kompetitor,Terdapat tempat sampah di toilet dan mudah ditemukan,Kompetitor,Branch Facilities,Branch Facilities,Toilet,Atribut,6,0,542,Ya
+T_KC2_78,Terdapat toilet di cabang - kompetitor,Terdapat toilet di cabang,Kompetitor,Branch Facilities,Branch Facilities,Toilet,Atribut,6,0,543,Ya
+T_KC2_57,"Tersedia penunjuk arah ruang pelayanan nasabah yang jelas/mudah terlihat (CS, Teller, Toilet, dan bisnis unit lainnya) - kompetitor",Tersedia penunjuk arah ruang pelayanan nasabah yang jelas/m…,Kompetitor,Branch Facilities,Branch Facilities,Toilet,Atribut,6,0,544,Ya
+T_KC2_87,Tersedia wastafel di area toilet - kompetitor,Tersedia wastafel di area toilet,Kompetitor,Branch Facilities,Branch Facilities,Toilet,Atribut,6,0,543,Ya
+T_KC2_81,Toilet bersih - kompetitor,Toilet bersih,Kompetitor,Branch Facilities,Branch Facilities,Toilet,Atribut,6,0,541,Ya
+T_KC2_99,Toilet selalu berfungsi dengan baik - kompetitor,Toilet selalu berfungsi dengan baik,Kompetitor,Branch Facilities,Branch Facilities,Toilet,Atribut,6,0,542,Ya
+T_KC2_84,Toilet selalu harum dan tidak bau - kompetitor,Toilet selalu harum dan tidak bau,Kompetitor,Branch Facilities,Branch Facilities,Toilet,Atribut,6,0,542,Ya
+T_KC1_32,Air selalu mengalir dengan lancar di semua keran yang ada di toilet,Air selalu mengalir dengan lancar di semua keran yang ada d…,XYZ,Branch Facilities,Branch Facilities,Toilet,Atribut,6,1,1730,Ya
+T_KC2_95,Air selalu mengalir dengan lancar di semua keran yang ada di toilet - XYZ,Air selalu mengalir dengan lancar di semua keran yang ada d…,XYZ,Branch Facilities,Branch Facilities,Toilet,Atribut,6,1,1722,Ya
+T_KC1_31,Selalu tersedia sabun pencuci tangan di toilet,Selalu tersedia sabun pencuci tangan di toilet,XYZ,Branch Facilities,Branch Facilities,Toilet,Atribut,6,1,1730,Ya
+T_KC2_92,Selalu tersedia sabun pencuci tangan di toilet - XYZ,Selalu tersedia sabun pencuci tangan di toilet,XYZ,Branch Facilities,Branch Facilities,Toilet,Atribut,6,1,1719,Ya
+T_KC1_30,Selalu tersedia tisu di toilet,Selalu tersedia tisu di toilet,XYZ,Branch Facilities,Branch Facilities,Toilet,Atribut,6,1,1730,Ya
+T_KC2_89,Selalu tersedia tisu di toilet - XYZ,Selalu tersedia tisu di toilet,XYZ,Branch Facilities,Branch Facilities,Toilet,Atribut,6,1,1722,Ya
+T_KC1_25,Terdapat petunjuk arah ke toilet,Terdapat petunjuk arah ke toilet,XYZ,Branch Facilities,Branch Facilities,Toilet,Atribut,6,1,1730,Ya
+T_KC2_74,Terdapat petunjuk arah ke toilet - XYZ,Terdapat petunjuk arah ke toilet,XYZ,Branch Facilities,Branch Facilities,Toilet,Atribut,6,1,1724,Ya
+T_KC1_34,Terdapat tempat sampah di toilet dan mudah ditemukan,Terdapat tempat sampah di toilet dan mudah ditemukan,XYZ,Branch Facilities,Branch Facilities,Toilet,Atribut,6,1,1730,Ya
+T_KC2_101,Terdapat tempat sampah di toilet dan mudah ditemukan - XYZ,Terdapat tempat sampah di toilet dan mudah ditemukan,XYZ,Branch Facilities,Branch Facilities,Toilet,Atribut,6,1,1723,Ya
+T_KC1_26,Terdapat toilet di cabang,Terdapat toilet di cabang,XYZ,Branch Facilities,Branch Facilities,Toilet,Atribut,6,1,1730,Ya
+T_KC2_77,Terdapat toilet di cabang - XYZ,Terdapat toilet di cabang,XYZ,Branch Facilities,Branch Facilities,Toilet,Atribut,6,1,1726,Ya
+T_KC1_19,"Tersedia penunjuk arah ruang pelayanan nasabah yang jelas/mudah terlihat (CS, Teller, Toilet, dan bisnis unit lainnya)",Tersedia penunjuk arah ruang pelayanan nasabah yang jelas/m…,XYZ,Branch Facilities,Branch Facilities,Toilet,Atribut,6,1,1730,Ya
+T_KC2_56,"Tersedia penunjuk arah ruang pelayanan nasabah yang jelas/mudah terlihat (CS, Teller, Toilet, dan bisnis unit lainnya) - XYZ",Tersedia penunjuk arah ruang pelayanan nasabah yang jelas/m…,XYZ,Branch Facilities,Branch Facilities,Toilet,Atribut,6,1,1729,Ya
+T_KC1_29,Tersedia wastafel di area toilet,Tersedia wastafel di area toilet,XYZ,Branch Facilities,Branch Facilities,Toilet,Atribut,6,1,1730,Ya
+T_KC2_86,Tersedia wastafel di area toilet - XYZ,Tersedia wastafel di area toilet,XYZ,Branch Facilities,Branch Facilities,Toilet,Atribut,6,1,1723,Ya
+T_KC1_27,Toilet bersih,Toilet bersih,XYZ,Branch Facilities,Branch Facilities,Toilet,Atribut,6,1,1730,Ya
+T_KC2_80,Toilet bersih - XYZ,Toilet bersih,XYZ,Branch Facilities,Branch Facilities,Toilet,Atribut,6,1,1717,Ya
+T_KC1_33,Toilet selalu berfungsi dengan baik,Toilet selalu berfungsi dengan baik,XYZ,Branch Facilities,Branch Facilities,Toilet,Atribut,6,1,1730,Ya
+T_KC2_98,Toilet selalu berfungsi dengan baik - XYZ,Toilet selalu berfungsi dengan baik,XYZ,Branch Facilities,Branch Facilities,Toilet,Atribut,6,1,1722,Ya
+T_KC1_28,Toilet selalu harum dan tidak bau,Toilet selalu harum dan tidak bau,XYZ,Branch Facilities,Branch Facilities,Toilet,Atribut,6,1,1730,Ya
+T_KC2_83,Toilet selalu harum dan tidak bau - XYZ,Toilet selalu harum dan tidak bau,XYZ,Branch Facilities,Branch Facilities,Toilet,Atribut,6,1,1722,Ya
+T_CS3_15,Cepat dalam memberikan layanan - kompetitor,Cepat dalam memberikan layanan,Kompetitor,Service Experience,Customer Service,Kecepatan & Ketanggapan,Atribut,6,0,331,Ya
+T_CS3_60,"Menginformasikan produk, promo, dan kebijakan terbaru kepada nasabah dengan cara yang baik (disesuaikan dengan ketersediaan waktu nasabah) - kompetitor","Menginformasikan produk, promo, dan kebijakan terbaru kepad…",Kompetitor,Service Experience,Customer Service,Kecepatan & Ketanggapan,Atribut,6,0,332,Ya
+T_CS3_21,Waktu antrian di CS cepat - kompetitor,Waktu antrian di CS cepat,Kompetitor,Service Experience,Customer Service,Kecepatan & Ketanggapan,Atribut,6,0,332,Ya
+T_CS2_5,Cepat dalam memberikan layanan,Cepat dalam memberikan layanan,XYZ,Service Experience,Customer Service,Kecepatan & Ketanggapan,Atribut,6,1,1046,Ya
+T_CS3_14,Cepat dalam memberikan layanan - XYZ,Cepat dalam memberikan layanan,XYZ,Service Experience,Customer Service,Kecepatan & Ketanggapan,Atribut,6,1,1045,Ya
+T_CS2_20,"Menginformasikan produk, promo, dan kebijakan terbaru kepada nasabah dengan cara yang baik (disesuaikan dengan ketersediaan waktu nasabah)","Menginformasikan produk, promo, dan kebijakan terbaru kepad…",XYZ,Service Experience,Customer Service,Kecepatan & Ketanggapan,Atribut,6,1,1046,Ya
+T_CS3_59,"Menginformasikan produk, promo, dan kebijakan terbaru kepada nasabah dengan cara yang baik (disesuaikan dengan ketersediaan waktu nasabah) - XYZ","Menginformasikan produk, promo, dan kebijakan terbaru kepad…",XYZ,Service Experience,Customer Service,Kecepatan & Ketanggapan,Atribut,6,1,1045,Ya
+T_CS2_7,Waktu antrian di CS cepat,Waktu antrian di CS cepat,XYZ,Service Experience,Customer Service,Kecepatan & Ketanggapan,Atribut,6,1,1046,Ya
+T_CS3_20,Waktu antrian di CS cepat - XYZ,Waktu antrian di CS cepat,XYZ,Service Experience,Customer Service,Kecepatan & Ketanggapan,Atribut,6,1,1043,Ya
+T_CS3_27,CS memiliki pengetahuan dalam menjawab pertanyaan nasabah atau pengetahuan CS ketika menjelaskan produk kepada nasabah - kompetitor,CS memiliki pengetahuan dalam menjawab pertanyaan nasabah a…,Kompetitor,Service Experience,Customer Service,Kompetensi & Solusi,Atribut,6,0,331,Ya
+T_CS3_36,CS menjelaskan proses pembukaan rekening baru dengan e-form (formulir elektronik) dengan baik - kompetitor,CS menjelaskan proses pembukaan rekening baru dengan e-form…,Kompetitor,Service Experience,Customer Service,Kompetensi & Solusi,Atribut,6,0,328,Ya
+T_CS3_39,Memberikan informasi yang lengkap dan akurat - kompetitor,Memberikan informasi yang lengkap dan akurat,Kompetitor,Service Experience,Customer Service,Kompetensi & Solusi,Atribut,6,0,331,Ya
+T_CS3_12,Memberikan solusi yang tepat terhadap permasalahan nasabah - kompetitor,Memberikan solusi yang tepat terhadap permasalahan nasabah,Kompetitor,Service Experience,Customer Service,Kompetensi & Solusi,Atribut,6,0,331,Ya
+T_CS3_9,Mengetahui pengetahuan yang baik tentang produk perbankan - kompetitor,Mengetahui pengetahuan yang baik tentang produk perbankan,Kompetitor,Service Experience,Customer Service,Kompetensi & Solusi,Atribut,6,0,331,Ya
+T_CS3_18,Teliti dalam memberikan layanan - kompetitor,Teliti dalam memberikan layanan,Kompetitor,Service Experience,Customer Service,Kompetensi & Solusi,Atribut,6,0,331,Ya
+T_CS3_69,Terdapat informasi/signage terkait status transaksi CS - kompetitor,Terdapat informasi/signage terkait status transaksi CS,Kompetitor,Service Experience,Customer Service,Kompetensi & Solusi,Atribut,6,0,331,Ya
+T_CS2_9,CS memiliki pengetahuan dalam menjawab pertanyaan nasabah atau pengetahuan CS ketika menjelaskan produk kepada nasabah,CS memiliki pengetahuan dalam menjawab pertanyaan nasabah a…,XYZ,Service Experience,Customer Service,Kompetensi & Solusi,Atribut,6,1,1046,Ya
+T_CS3_26,CS memiliki pengetahuan dalam menjawab pertanyaan nasabah atau pengetahuan CS ketika menjelaskan produk kepada nasabah - XYZ,CS memiliki pengetahuan dalam menjawab pertanyaan nasabah a…,XYZ,Service Experience,Customer Service,Kompetensi & Solusi,Atribut,6,1,1045,Ya
+T_CS2_12,CS menjelaskan proses pembukaan rekening baru dengan e-form (formulir elektronik) dengan baik,CS menjelaskan proses pembukaan rekening baru dengan e-form…,XYZ,Service Experience,Customer Service,Kompetensi & Solusi,Atribut,6,1,1046,Ya
+T_CS3_35,CS menjelaskan proses pembukaan rekening baru dengan e-form (formulir elektronik) dengan baik - XYZ,CS menjelaskan proses pembukaan rekening baru dengan e-form…,XYZ,Service Experience,Customer Service,Kompetensi & Solusi,Atribut,6,1,1040,Ya
+T_CS2_13,Memberikan informasi yang lengkap dan akurat,Memberikan informasi yang lengkap dan akurat,XYZ,Service Experience,Customer Service,Kompetensi & Solusi,Atribut,6,1,1046,Ya
+T_CS3_38,Memberikan informasi yang lengkap dan akurat - XYZ,Memberikan informasi yang lengkap dan akurat,XYZ,Service Experience,Customer Service,Kompetensi & Solusi,Atribut,6,1,1046,Ya
+T_CS2_4,Memberikan solusi yang tepat terhadap permasalahan nasabah,Memberikan solusi yang tepat terhadap permasalahan nasabah,XYZ,Service Experience,Customer Service,Kompetensi & Solusi,Atribut,6,1,1046,Ya
+T_CS3_11,Memberikan solusi yang tepat terhadap permasalahan nasabah - XYZ,Memberikan solusi yang tepat terhadap permasalahan nasabah,XYZ,Service Experience,Customer Service,Kompetensi & Solusi,Atribut,6,1,1045,Ya
+T_CS2_3,Mengetahui pengetahuan yang baik tentang produk perbankan,Mengetahui pengetahuan yang baik tentang produk perbankan,XYZ,Service Experience,Customer Service,Kompetensi & Solusi,Atribut,6,1,1046,Ya
+T_CS3_8,Mengetahui pengetahuan yang baik tentang produk perbankan - XYZ,Mengetahui pengetahuan yang baik tentang produk perbankan,XYZ,Service Experience,Customer Service,Kompetensi & Solusi,Atribut,6,1,1045,Ya
+T_CS2_6,Teliti dalam memberikan layanan,Teliti dalam memberikan layanan,XYZ,Service Experience,Customer Service,Kompetensi & Solusi,Atribut,6,1,1046,Ya
+T_CS3_17,Teliti dalam memberikan layanan - XYZ,Teliti dalam memberikan layanan,XYZ,Service Experience,Customer Service,Kompetensi & Solusi,Atribut,6,1,1046,Ya
+T_CS2_23,Terdapat informasi/signage terkait status transaksi CS,Terdapat informasi/signage terkait status transaksi CS,XYZ,Service Experience,Customer Service,Kompetensi & Solusi,Atribut,6,1,1046,Ya
+T_CS3_68,Terdapat informasi/signage terkait status transaksi CS - XYZ,Terdapat informasi/signage terkait status transaksi CS,XYZ,Service Experience,Customer Service,Kompetensi & Solusi,Atribut,6,1,1043,Ya
+T_CS3_72,"Dengan mempertimbangkan berbagai hal, bagaimana penilaian keseluruhan terhadap CUSTOMER SERVICE bank….. - kompetitor","Dengan mempertimbangkan berbagai hal, bagaimana penilaian k…",Kompetitor,Service Experience,Customer Service,Overall,Overall,6,0,332,Ya
+T_CS3_71,"Dengan mempertimbangkan berbagai hal, bagaimana penilaian keseluruhan terhadap CUSTOMER SERVICE bank….. - XYZ","Dengan mempertimbangkan berbagai hal, bagaimana penilaian k…",XYZ,Service Experience,Customer Service,Overall,Overall,6,1,1046,Ya
+T_CS3_33,"CS memberikan edukasi tentang penggunaan e-channel (ATM, Mobile Banking, dll) - kompetitor","CS memberikan edukasi tentang penggunaan e-channel (ATM, Mo…",Kompetitor,Service Experience,Customer Service,Pelayanan Umum,Atribut,6,0,331,Ya
+T_CS3_24,CS memiliki kehandalan sistem komputer di meja CS (online) - kompetitor,CS memiliki kehandalan sistem komputer di meja CS (online),Kompetitor,Service Experience,Customer Service,Pelayanan Umum,Atribut,6,0,332,Ya
+T_CS3_30,CS memiliki pemahaman terhadap permintaan/permasalahan nasabah - kompetitor,CS memiliki pemahaman terhadap permintaan/permasalahan nasa…,Kompetitor,Service Experience,Customer Service,Pelayanan Umum,Atribut,6,0,332,Ya
+T_CS3_63,CSnya menawarkan bantuan lain ketika akan mengakhiri layanan - kompetitor,CSnya menawarkan bantuan lain ketika akan mengakhiri layanan,Kompetitor,Service Experience,Customer Service,Pelayanan Umum,Atribut,6,0,332,Ya
+T_CS3_57,CSnya mengucapkan terima kasih saat mengakhiri layanan - kompetitor,CSnya mengucapkan terima kasih saat mengakhiri layanan,Kompetitor,Service Experience,Customer Service,Pelayanan Umum,Atribut,6,0,332,Ya
+T_CS3_6,Jumlah Customer Service yang melayani cukup pada saat jam sibuk (meja CS tidak ada yang kosong) - kompetitor,Jumlah Customer Service yang melayani cukup pada saat jam s…,Kompetitor,Service Experience,Customer Service,Pelayanan Umum,Atribut,6,0,332,Ya
+T_CS3_51,Memberikan pelayanan dengan pendekatan personal (menyebut nama nasabah) - kompetitor.1,Memberikan pelayanan dengan pendekatan personal (menyebut n…,Kompetitor,Service Experience,Customer Service,Pelayanan Umum,Atribut,6,0,331,Ya
+T_CS3_66,Terdapat papan nama CS di area meja kerja CS - kompetitor,Terdapat papan nama CS di area meja kerja CS,Kompetitor,Service Experience,Customer Service,Pelayanan Umum,Atribut,6,0,332,Ya
+T_CS3_42,Tidak mengobrol dengan rekan kerja - kompetitor,Tidak mengobrol dengan rekan kerja,Kompetitor,Service Experience,Customer Service,Pelayanan Umum,Atribut,6,0,332,Ya
+T_CS2_11,"CS memberikan edukasi tentang penggunaan e-channel (ATM, Mobile Banking, dll)","CS memberikan edukasi tentang penggunaan e-channel (ATM, Mo…",XYZ,Service Experience,Customer Service,Pelayanan Umum,Atribut,6,1,1046,Ya
+T_CS3_32,"CS memberikan edukasi tentang penggunaan e-channel (ATM, Mobile Banking, dll) - XYZ","CS memberikan edukasi tentang penggunaan e-channel (ATM, Mo…",XYZ,Service Experience,Customer Service,Pelayanan Umum,Atribut,6,1,1046,Ya
+T_CS2_8,CS memiliki kehandalan sistem komputer di meja CS (online),CS memiliki kehandalan sistem komputer di meja CS (online),XYZ,Service Experience,Customer Service,Pelayanan Umum,Atribut,6,1,1046,Ya
+T_CS3_23,CS memiliki kehandalan sistem komputer di meja CS (online) - XYZ,CS memiliki kehandalan sistem komputer di meja CS (online),XYZ,Service Experience,Customer Service,Pelayanan Umum,Atribut,6,1,1044,Ya
+T_CS2_10,CS memiliki pemahaman terhadap permintaan/permasalahan nasabah,CS memiliki pemahaman terhadap permintaan/permasalahan nasa…,XYZ,Service Experience,Customer Service,Pelayanan Umum,Atribut,6,1,1046,Ya
+T_CS3_29,CS memiliki pemahaman terhadap permintaan/permasalahan nasabah - XYZ,CS memiliki pemahaman terhadap permintaan/permasalahan nasa…,XYZ,Service Experience,Customer Service,Pelayanan Umum,Atribut,6,1,1046,Ya
+T_CS2_21,CSnya menawarkan bantuan lain ketika akan mengakhiri layanan,CSnya menawarkan bantuan lain ketika akan mengakhiri layanan,XYZ,Service Experience,Customer Service,Pelayanan Umum,Atribut,6,1,1046,Ya
+T_CS3_62,CSnya menawarkan bantuan lain ketika akan mengakhiri layanan - XYZ,CSnya menawarkan bantuan lain ketika akan mengakhiri layanan,XYZ,Service Experience,Customer Service,Pelayanan Umum,Atribut,6,1,1046,Ya
+T_CS2_19,CSnya mengucapkan terima kasih saat mengakhiri layanan,CSnya mengucapkan terima kasih saat mengakhiri layanan,XYZ,Service Experience,Customer Service,Pelayanan Umum,Atribut,6,1,1046,Ya
+T_CS3_56,CSnya mengucapkan terima kasih saat mengakhiri layanan - XYZ,CSnya mengucapkan terima kasih saat mengakhiri layanan,XYZ,Service Experience,Customer Service,Pelayanan Umum,Atribut,6,1,1043,Ya
+T_CS2_2,Jumlah Customer Service yang melayani cukup pada saat jam sibuk (meja CS tidak ada yang kosong),Jumlah Customer Service yang melayani cukup pada saat jam s…,XYZ,Service Experience,Customer Service,Pelayanan Umum,Atribut,6,1,1046,Ya
+T_CS3_5,Jumlah Customer Service yang melayani cukup pada saat jam sibuk (meja CS tidak ada yang kosong) - XYZ,Jumlah Customer Service yang melayani cukup pada saat jam s…,XYZ,Service Experience,Customer Service,Pelayanan Umum,Atribut,6,1,1043,Ya
+T_CS2_17,Memberikan pelayanan dengan pendekatan personal (menyebut nama nasabah).1,Memberikan pelayanan dengan pendekatan personal (menyebut n…,XYZ,Service Experience,Customer Service,Pelayanan Umum,Atribut,6,1,1046,Ya
+T_CS3_50,Memberikan pelayanan dengan pendekatan personal (menyebut nama nasabah) - XYZ.1,Memberikan pelayanan dengan pendekatan personal (menyebut n…,XYZ,Service Experience,Customer Service,Pelayanan Umum,Atribut,6,1,1046,Ya
+T_CS2_22,Terdapat papan nama CS di area meja kerja CS,Terdapat papan nama CS di area meja kerja CS,XYZ,Service Experience,Customer Service,Pelayanan Umum,Atribut,6,1,1046,Ya
+T_CS3_65,Terdapat papan nama CS di area meja kerja CS - XYZ,Terdapat papan nama CS di area meja kerja CS,XYZ,Service Experience,Customer Service,Pelayanan Umum,Atribut,6,1,1044,Ya
+T_CS2_14,Tidak mengobrol dengan rekan kerja,Tidak mengobrol dengan rekan kerja,XYZ,Service Experience,Customer Service,Pelayanan Umum,Atribut,6,1,1046,Ya
+T_CS3_41,Tidak mengobrol dengan rekan kerja - XYZ,Tidak mengobrol dengan rekan kerja,XYZ,Service Experience,Customer Service,Pelayanan Umum,Atribut,6,1,1045,Ya
+T_CS3_45,CS berpenampilan rapi dan menarik - kompetitor,CS berpenampilan rapi dan menarik,Kompetitor,Service Experience,Customer Service,Penampilan,Atribut,6,0,332,Ya
+T_CS2_15,CS berpenampilan rapi dan menarik,CS berpenampilan rapi dan menarik,XYZ,Service Experience,Customer Service,Penampilan,Atribut,6,1,1046,Ya
+T_CS3_44,CS berpenampilan rapi dan menarik - XYZ,CS berpenampilan rapi dan menarik,XYZ,Service Experience,Customer Service,Penampilan,Atribut,6,1,1046,Ya
+T_CS3_3,CS ramah selama melayani (tersenyum dan tidak jutek selama melayani) - kompetitor,CS ramah selama melayani (tersenyum dan tidak jutek selama …,Kompetitor,Service Experience,Customer Service,Sikap & Keramahan,Atribut,6,0,332,Ya
+T_CS3_54,CSnya mengucapkan salam saat menyambut dan mengakhiri layanan - kompetitor,CSnya mengucapkan salam saat menyambut dan mengakhiri layan…,Kompetitor,Service Experience,Customer Service,Sikap & Keramahan,Atribut,6,0,332,Ya
+T_CS3_48,Menunjukkan keinginan untuk membantu nasabah - kompetitor,Menunjukkan keinginan untuk membantu nasabah,Kompetitor,Service Experience,Customer Service,Sikap & Keramahan,Atribut,6,0,332,Ya
+T_CS2_1,CS ramah selama melayani (tersenyum dan tidak jutek selama melayani),CS ramah selama melayani (tersenyum dan tidak jutek selama …,XYZ,Service Experience,Customer Service,Sikap & Keramahan,Atribut,6,1,1046,Ya
+T_CS3_2,CS ramah selama melayani (tersenyum dan tidak jutek selama melayani) - XYZ,CS ramah selama melayani (tersenyum dan tidak jutek selama …,XYZ,Service Experience,Customer Service,Sikap & Keramahan,Atribut,6,1,1043,Ya
+T_CS2_18,CSnya mengucapkan salam saat menyambut dan mengakhiri layanan,CSnya mengucapkan salam saat menyambut dan mengakhiri layan…,XYZ,Service Experience,Customer Service,Sikap & Keramahan,Atribut,6,1,1046,Ya
+T_CS3_53,CSnya mengucapkan salam saat menyambut dan mengakhiri layanan - XYZ,CSnya mengucapkan salam saat menyambut dan mengakhiri layan…,XYZ,Service Experience,Customer Service,Sikap & Keramahan,Atribut,6,1,1046,Ya
+T_CS2_16,Menunjukkan keinginan untuk membantu nasabah,Menunjukkan keinginan untuk membantu nasabah,XYZ,Service Experience,Customer Service,Sikap & Keramahan,Atribut,6,1,1046,Ya
+T_CS3_47,Menunjukkan keinginan untuk membantu nasabah - XYZ,Menunjukkan keinginan untuk membantu nasabah,XYZ,Service Experience,Customer Service,Sikap & Keramahan,Atribut,6,1,1046,Ya
+T_TL3_9,Layanan yang diberikan teller cepat - kompetitor,Layanan yang diberikan teller cepat,Kompetitor,Service Experience,Teller,Kecepatan & Ketanggapan,Atribut,6,0,347,Ya
+T_TL3_6,Sistem antrian yang dilengkapi dengan nomor antrian - kompetitor,Sistem antrian yang dilengkapi dengan nomor antrian,Kompetitor,Service Experience,Teller,Kecepatan & Ketanggapan,Atribut,6,0,347,Ya
+T_TL3_3,Waktu antrian di Teller cepat - kompetitor,Waktu antrian di Teller cepat,Kompetitor,Service Experience,Teller,Kecepatan & Ketanggapan,Atribut,6,0,347,Ya
+T_TL2_3,Layanan yang diberikan teller cepat,Layanan yang diberikan teller cepat,XYZ,Service Experience,Teller,Kecepatan & Ketanggapan,Atribut,6,1,1069,Ya
+T_TL3_8,Layanan yang diberikan teller cepat - XYZ,Layanan yang diberikan teller cepat,XYZ,Service Experience,Teller,Kecepatan & Ketanggapan,Atribut,6,1,1066,Ya
+T_TL2_2,Sistem antrian yang dilengkapi dengan nomor antrian,Sistem antrian yang dilengkapi dengan nomor antrian,XYZ,Service Experience,Teller,Kecepatan & Ketanggapan,Atribut,6,1,1069,Ya
+T_TL3_5,Sistem antrian yang dilengkapi dengan nomor antrian - XYZ,Sistem antrian yang dilengkapi dengan nomor antrian,XYZ,Service Experience,Teller,Kecepatan & Ketanggapan,Atribut,6,1,1068,Ya
+T_TL2_1,Waktu antrian di Teller cepat,Waktu antrian di Teller cepat,XYZ,Service Experience,Teller,Kecepatan & Ketanggapan,Atribut,6,1,1069,Ya
+T_TL3_2,Waktu antrian di Teller cepat - XYZ,Waktu antrian di Teller cepat,XYZ,Service Experience,Teller,Kecepatan & Ketanggapan,Atribut,6,1,1068,Ya
+T_TL3_18,Akurat dalam melakukan transaksi (Tidak salah dalam melakukan transaksi) - kompetitor,Akurat dalam melakukan transaksi (Tidak salah dalam melakuk…,Kompetitor,Service Experience,Teller,Kompetensi & Solusi,Atribut,6,0,348,Ya
+T_TL3_24,Teller memiliki pengetahuan yang memadai - kompetitor,Teller memiliki pengetahuan yang memadai,Kompetitor,Service Experience,Teller,Kompetensi & Solusi,Atribut,6,0,348,Ya
+T_TL3_57,Terdapat informasi/signage transaksi di meja kerja teller - kompetitor,Terdapat informasi/signage transaksi di meja kerja teller,Kompetitor,Service Experience,Teller,Kompetensi & Solusi,Atribut,6,0,344,Ya
+T_TL2_6,Akurat dalam melakukan transaksi (Tidak salah dalam melakukan transaksi),Akurat dalam melakukan transaksi (Tidak salah dalam melakuk…,XYZ,Service Experience,Teller,Kompetensi & Solusi,Atribut,6,1,1069,Ya
+T_TL3_17,Akurat dalam melakukan transaksi (Tidak salah dalam melakukan transaksi) - XYZ,Akurat dalam melakukan transaksi (Tidak salah dalam melakuk…,XYZ,Service Experience,Teller,Kompetensi & Solusi,Atribut,6,1,1068,Ya
+T_TL2_8,Teller memiliki pengetahuan yang memadai,Teller memiliki pengetahuan yang memadai,XYZ,Service Experience,Teller,Kompetensi & Solusi,Atribut,6,1,1069,Ya
+T_TL3_23,Teller memiliki pengetahuan yang memadai - XYZ,Teller memiliki pengetahuan yang memadai,XYZ,Service Experience,Teller,Kompetensi & Solusi,Atribut,6,1,1069,Ya
+T_TL2_19,Terdapat informasi/signage transaksi di meja kerja teller,Terdapat informasi/signage transaksi di meja kerja teller,XYZ,Service Experience,Teller,Kompetensi & Solusi,Atribut,6,1,1069,Ya
+T_TL3_56,Terdapat informasi/signage transaksi di meja kerja teller - XYZ,Terdapat informasi/signage transaksi di meja kerja teller,XYZ,Service Experience,Teller,Kompetensi & Solusi,Atribut,6,1,1069,Ya
+T_TL3_60,"Dengan mempertimbangkan berbagai hal, bagaimana penilaian keseluruhan terhadap TELLER bank…? - kompetitor","Dengan mempertimbangkan berbagai hal, bagaimana penilaian k…",Kompetitor,Service Experience,Teller,Overall,Overall,6,0,347,Ya
+T_TL3_59,"Dengan mempertimbangkan berbagai hal, bagaimana penilaian keseluruhan terhadap TELLER bank…? - XYZ","Dengan mempertimbangkan berbagai hal, bagaimana penilaian k…",XYZ,Service Experience,Teller,Overall,Overall,6,1,1069,Ya
+T_TL3_12,Jumlah teller di kantor cabang mencukupi pada saat jam sibuk (meja teller tidak ada yang kosong) - kompetitor,Jumlah teller di kantor cabang mencukupi pada saat jam sibu…,Kompetitor,Service Experience,Teller,Pelayanan Umum,Atribut,6,0,348,Ya
+T_TL3_21,Kehandalan sistem komputer untuk Teller (online) - kompetitor,Kehandalan sistem komputer untuk Teller (online),Kompetitor,Service Experience,Teller,Pelayanan Umum,Atribut,6,0,346,Ya
+T_TL3_45,Memberikan pelayanan dengan pendekatan personal (menyebut nama nasabah) - kompetitor,Memberikan pelayanan dengan pendekatan personal (menyebut n…,Kompetitor,Service Experience,Teller,Pelayanan Umum,Atribut,6,0,347,Ya
+T_TL3_27,"Teller memberikan edukasi tentang penggunaan e-channel (ATM, Mobile Banking, dll) - kompetitor",Teller memberikan edukasi tentang penggunaan e-channel (ATM…,Kompetitor,Service Experience,Teller,Pelayanan Umum,Atribut,6,0,346,Ya
+T_TL3_42,Teller memperkenalkan diri/menyebut namanya saat menyambut nasabah - kompetitor,Teller memperkenalkan diri/menyebut namanya saat menyambut …,Kompetitor,Service Experience,Teller,Pelayanan Umum,Atribut,6,0,348,Ya
+T_TL3_48,Tellernya selalu melakukan validas setelah selesai transaksi di Teller - kompetitor,Tellernya selalu melakukan validas setelah selesai transaks…,Kompetitor,Service Experience,Teller,Pelayanan Umum,Atribut,6,0,348,Ya
+T_TL3_36,Tellernya tidak mengobrol dengan rekannya / petugas bank lain - kompetitor,Tellernya tidak mengobrol dengan rekannya / petugas bank la…,Kompetitor,Service Experience,Teller,Pelayanan Umum,Atribut,6,0,347,Ya
+T_TL3_54,Terdapat papan nama Teller di area meja kerja Teller - kompetitor,Terdapat papan nama Teller di area meja kerja Teller,Kompetitor,Service Experience,Teller,Pelayanan Umum,Atribut,6,0,347,Ya
+T_TL2_4,Jumlah teller di kantor cabang mencukupi pada saat jam sibuk (meja teller tidak ada yang kosong),Jumlah teller di kantor cabang mencukupi pada saat jam sibu…,XYZ,Service Experience,Teller,Pelayanan Umum,Atribut,6,1,1069,Ya
+T_TL3_11,Jumlah teller di kantor cabang mencukupi pada saat jam sibuk (meja teller tidak ada yang kosong) - XYZ,Jumlah teller di kantor cabang mencukupi pada saat jam sibu…,XYZ,Service Experience,Teller,Pelayanan Umum,Atribut,6,1,1068,Ya
+T_TL2_7,Kehandalan sistem komputer untuk Teller (online),Kehandalan sistem komputer untuk Teller (online),XYZ,Service Experience,Teller,Pelayanan Umum,Atribut,6,1,1069,Ya
+T_TL3_20,Kehandalan sistem komputer untuk Teller (online) - XYZ,Kehandalan sistem komputer untuk Teller (online),XYZ,Service Experience,Teller,Pelayanan Umum,Atribut,6,1,1068,Ya
+T_TL2_15,Memberikan pelayanan dengan pendekatan personal (menyebut nama nasabah),Memberikan pelayanan dengan pendekatan personal (menyebut n…,XYZ,Service Experience,Teller,Pelayanan Umum,Atribut,6,1,1069,Ya
+T_TL3_44,Memberikan pelayanan dengan pendekatan personal (menyebut nama nasabah) - XYZ,Memberikan pelayanan dengan pendekatan personal (menyebut n…,XYZ,Service Experience,Teller,Pelayanan Umum,Atribut,6,1,1069,Ya
+T_TL2_9,"Teller memberikan edukasi tentang penggunaan e-channel (ATM, Mobile Banking, dll)",Teller memberikan edukasi tentang penggunaan e-channel (ATM…,XYZ,Service Experience,Teller,Pelayanan Umum,Atribut,6,1,1069,Ya
+T_TL3_26,"Teller memberikan edukasi tentang penggunaan e-channel (ATM, Mobile Banking, dll) - XYZ",Teller memberikan edukasi tentang penggunaan e-channel (ATM…,XYZ,Service Experience,Teller,Pelayanan Umum,Atribut,6,1,1069,Ya
+T_TL2_14,Teller memperkenalkan diri/menyebut namanya saat menyambut nasabah,Teller memperkenalkan diri/menyebut namanya saat menyambut …,XYZ,Service Experience,Teller,Pelayanan Umum,Atribut,6,1,1069,Ya
+T_TL3_41,Teller memperkenalkan diri/menyebut namanya saat menyambut nasabah - XYZ,Teller memperkenalkan diri/menyebut namanya saat menyambut …,XYZ,Service Experience,Teller,Pelayanan Umum,Atribut,6,1,1068,Ya
+T_TL2_16,Tellernya selalu melakukan validas setelah selesai transaksi di Teller,Tellernya selalu melakukan validas setelah selesai transaks…,XYZ,Service Experience,Teller,Pelayanan Umum,Atribut,6,1,1069,Ya
+T_TL3_47,Tellernya selalu melakukan validas setelah selesai transaksi di Teller - XYZ,Tellernya selalu melakukan validas setelah selesai transaks…,XYZ,Service Experience,Teller,Pelayanan Umum,Atribut,6,1,1069,Ya
+T_TL2_12,Tellernya tidak mengobrol dengan rekannya / petugas bank lain,Tellernya tidak mengobrol dengan rekannya / petugas bank la…,XYZ,Service Experience,Teller,Pelayanan Umum,Atribut,6,1,1069,Ya
+T_TL3_35,Tellernya tidak mengobrol dengan rekannya / petugas bank lain - XYZ,Tellernya tidak mengobrol dengan rekannya / petugas bank la…,XYZ,Service Experience,Teller,Pelayanan Umum,Atribut,6,1,1069,Ya
+T_TL2_18,Terdapat papan nama Teller di area meja kerja Teller,Terdapat papan nama Teller di area meja kerja Teller,XYZ,Service Experience,Teller,Pelayanan Umum,Atribut,6,1,1069,Ya
+T_TL3_53,Terdapat papan nama Teller di area meja kerja Teller - XYZ,Terdapat papan nama Teller di area meja kerja Teller,XYZ,Service Experience,Teller,Pelayanan Umum,Atribut,6,1,1068,Ya
+T_TL3_15,Tellernya berpenampilan rapi dan menarik - kompetitor,Tellernya berpenampilan rapi dan menarik,Kompetitor,Service Experience,Teller,Penampilan,Atribut,6,0,347,Ya
+T_TL2_5,Tellernya berpenampilan rapi dan menarik,Tellernya berpenampilan rapi dan menarik,XYZ,Service Experience,Teller,Penampilan,Atribut,6,1,1069,Ya
+T_TL3_14,Tellernya berpenampilan rapi dan menarik - XYZ,Tellernya berpenampilan rapi dan menarik,XYZ,Service Experience,Teller,Penampilan,Atribut,6,1,1069,Ya
+T_TL3_51,Memberikan usaha lebih/extra effort untuk nasabahnya (membantu mengecek pengisian slip setoran/penarikan/pembayaran/verifikasi/konfirmasi data nasabah) - kompetitor,Memberikan usaha lebih/extra effort untuk nasabahnya (memba…,Kompetitor,Service Experience,Teller,Sikap & Keramahan,Atribut,6,0,347,Ya
+T_TL3_39,Menunjukkan keinginan untuk membantu nasabah (selalu menanyakan apalagi yang bisa dibantu) - kompetitor,Menunjukkan keinginan untuk membantu nasabah (selalu menany…,Kompetitor,Service Experience,Teller,Sikap & Keramahan,Atribut,6,0,348,Ya
+T_TL3_33,Tellernya mengucapkan salam saat menyambut dan mengakhiri layanan - kompetitor,Tellernya mengucapkan salam saat menyambut dan mengakhiri l…,Kompetitor,Service Experience,Teller,Sikap & Keramahan,Atribut,6,0,347,Ya
+T_TL3_30,Tellernya ramah selama melayani (tersenyum dan tidak jutek selama melayani) - kompetitor,Tellernya ramah selama melayani (tersenyum dan tidak jutek …,Kompetitor,Service Experience,Teller,Sikap & Keramahan,Atribut,6,0,347,Ya
+T_TL2_17,Memberikan usaha lebih/extra effort untuk nasabahnya (membantu mengecek pengisian slip setoran/penarikan/pembayaran/verifikasi/konfirmasi data nasabah),Memberikan usaha lebih/extra effort untuk nasabahnya (memba…,XYZ,Service Experience,Teller,Sikap & Keramahan,Atribut,6,1,1069,Ya
+T_TL3_50,Memberikan usaha lebih/extra effort untuk nasabahnya (membantu mengecek pengisian slip setoran/penarikan/pembayaran/verifikasi/konfirmasi data nasabah) - XYZ,Memberikan usaha lebih/extra effort untuk nasabahnya (memba…,XYZ,Service Experience,Teller,Sikap & Keramahan,Atribut,6,1,1069,Ya
+T_TL2_13,Menunjukkan keinginan untuk membantu nasabah (selalu menanyakan apalagi yang bisa dibantu),Menunjukkan keinginan untuk membantu nasabah (selalu menany…,XYZ,Service Experience,Teller,Sikap & Keramahan,Atribut,6,1,1069,Ya
+T_TL3_38,Menunjukkan keinginan untuk membantu nasabah (selalu menanyakan apalagi yang bisa dibantu) - XYZ,Menunjukkan keinginan untuk membantu nasabah (selalu menany…,XYZ,Service Experience,Teller,Sikap & Keramahan,Atribut,6,1,1069,Ya
+T_TL2_11,Tellernya mengucapkan salam saat menyambut dan mengakhiri layanan,Tellernya mengucapkan salam saat menyambut dan mengakhiri l…,XYZ,Service Experience,Teller,Sikap & Keramahan,Atribut,6,1,1069,Ya
+T_TL3_32,Tellernya mengucapkan salam saat menyambut dan mengakhiri layanan - XYZ,Tellernya mengucapkan salam saat menyambut dan mengakhiri l…,XYZ,Service Experience,Teller,Sikap & Keramahan,Atribut,6,1,1069,Ya
+T_TL2_10,Tellernya ramah selama melayani (tersenyum dan tidak jutek selama melayani),Tellernya ramah selama melayani (tersenyum dan tidak jutek …,XYZ,Service Experience,Teller,Sikap & Keramahan,Atribut,6,1,1069,Ya
+T_TL3_29,Tellernya ramah selama melayani (tersenyum dan tidak jutek selama melayani) - XYZ,Tellernya ramah selama melayani (tersenyum dan tidak jutek …,XYZ,Service Experience,Teller,Sikap & Keramahan,Atribut,6,1,1069,Ya
+T_SC2_24,Mengarahkan nasabah dan mengkonfirmasi kelengkapan dokumen yang diperlukan untuk bertransaksi - kompetitor,Mengarahkan nasabah dan mengkonfirmasi kelengkapan dokumen …,Kompetitor,Service Experience,Security,Keamanan & Kesigapan,Atribut,6,0,544,Ya
+T_SC1_8,Mengarahkan nasabah dan mengkonfirmasi kelengkapan dokumen yang diperlukan untuk bertransaksi,Mengarahkan nasabah dan mengkonfirmasi kelengkapan dokumen …,XYZ,Service Experience,Security,Keamanan & Kesigapan,Atribut,6,1,1730,Ya
+T_SC2_23,Mengarahkan nasabah dan mengkonfirmasi kelengkapan dokumen yang diperlukan untuk bertransaksi - XYZ,Mengarahkan nasabah dan mengkonfirmasi kelengkapan dokumen …,XYZ,Service Experience,Security,Keamanan & Kesigapan,Atribut,6,1,1728,Ya
+T_SC2_30,Memberikan nomor antrian kepada nasabah - kompetitor,Memberikan nomor antrian kepada nasabah,Kompetitor,Service Experience,Security,Kecepatan & Ketanggapan,Atribut,6,0,544,Ya
+T_SC2_33,Mengatur antrian nasabah - kompetitor,Mengatur antrian nasabah,Kompetitor,Service Experience,Security,Kecepatan & Ketanggapan,Atribut,6,0,545,Ya
+T_SC1_10,Memberikan nomor antrian kepada nasabah,Memberikan nomor antrian kepada nasabah,XYZ,Service Experience,Security,Kecepatan & Ketanggapan,Atribut,6,1,1730,Ya
+T_SC2_29,Memberikan nomor antrian kepada nasabah - XYZ,Memberikan nomor antrian kepada nasabah,XYZ,Service Experience,Security,Kecepatan & Ketanggapan,Atribut,6,1,1726,Ya
+T_SC1_11,Mengatur antrian nasabah,Mengatur antrian nasabah,XYZ,Service Experience,Security,Kecepatan & Ketanggapan,Atribut,6,1,1730,Ya
+T_SC2_32,Mengatur antrian nasabah - XYZ,Mengatur antrian nasabah,XYZ,Service Experience,Security,Kecepatan & Ketanggapan,Atribut,6,1,1728,Ya
+T_SC2_27,Memiliki pengetahuan yang memadai untuk menjawab pertanyaan dari nasabah - kompetitor,Memiliki pengetahuan yang memadai untuk menjawab pertanyaan…,Kompetitor,Service Experience,Security,Kompetensi & Solusi,Atribut,6,0,545,Ya
+T_SC1_9,Memiliki pengetahuan yang memadai untuk menjawab pertanyaan dari nasabah,Memiliki pengetahuan yang memadai untuk menjawab pertanyaan…,XYZ,Service Experience,Security,Kompetensi & Solusi,Atribut,6,1,1730,Ya
+T_SC2_26,Memiliki pengetahuan yang memadai untuk menjawab pertanyaan dari nasabah - XYZ,Memiliki pengetahuan yang memadai untuk menjawab pertanyaan…,XYZ,Service Experience,Security,Kompetensi & Solusi,Atribut,6,1,1726,Ya
+T_SC2_48,"Dengan mempertimbangkan berbagai hal, bagaimana penilaian keseluruhan terhadap SEKURITI Bank…? - kompetitor","Dengan mempertimbangkan berbagai hal, bagaimana penilaian k…",Kompetitor,Service Experience,Security,Overall,Overall,6,0,545,Ya
+T_SC2_47,"Dengan mempertimbangkan berbagai hal, bagaimana penilaian keseluruhan terhadap SEKURITI Bank…? - XYZ","Dengan mempertimbangkan berbagai hal, bagaimana penilaian k…",XYZ,Service Experience,Security,Overall,Overall,6,1,1729,Ya
+T_SC2_39,Jumlah sekuriti memadai - kompetitor,Jumlah sekuriti memadai,Kompetitor,Service Experience,Security,Pelayanan Umum,Atribut,6,0,545,Ya
+T_SC2_45,Keberadaan Satpam Dalam Banking Hall yang siap dan siaga - kompetitor,Keberadaan Satpam Dalam Banking Hall yang siap dan siaga,Kompetitor,Service Experience,Security,Pelayanan Umum,Atribut,6,0,544,Ya
+T_SC2_42,Keberadaan Satpam Luar Banking Hall yang siap dan siaga (N/A untuk KCP) - kompetitor,Keberadaan Satpam Luar Banking Hall yang siap dan siaga (N/…,Kompetitor,Service Experience,Security,Pelayanan Umum,Atribut,6,0,539,Ya
+T_SC2_21,Menawarkan bantuan saat nasabah datang - kompetitor,Menawarkan bantuan saat nasabah datang,Kompetitor,Service Experience,Security,Pelayanan Umum,Atribut,6,0,544,Ya
+T_SC2_36,Mengucapkan terima kasih saat nasabah pulang - kompetitor,Mengucapkan terima kasih saat nasabah pulang,Kompetitor,Service Experience,Security,Pelayanan Umum,Atribut,6,0,545,Ya
+T_SC1_13,Jumlah sekuriti memadai,Jumlah sekuriti memadai,XYZ,Service Experience,Security,Pelayanan Umum,Atribut,6,1,1730,Ya
+T_SC2_38,Jumlah sekuriti memadai - XYZ,Jumlah sekuriti memadai,XYZ,Service Experience,Security,Pelayanan Umum,Atribut,6,1,1728,Ya
+T_SC1_15,Keberadaan Satpam Dalam Banking Hall yang siap dan siaga,Keberadaan Satpam Dalam Banking Hall yang siap dan siaga,XYZ,Service Experience,Security,Pelayanan Umum,Atribut,6,1,1730,Ya
+T_SC2_44,Keberadaan Satpam Dalam Banking Hall yang siap dan siaga - XYZ,Keberadaan Satpam Dalam Banking Hall yang siap dan siaga,XYZ,Service Experience,Security,Pelayanan Umum,Atribut,6,1,1728,Ya
+T_SC1_14,Keberadaan Satpam Luar Banking Hall yang siap dan siaga (N/A untuk KCP),Keberadaan Satpam Luar Banking Hall yang siap dan siaga (N/…,XYZ,Service Experience,Security,Pelayanan Umum,Atribut,6,1,1730,Ya
+T_SC2_41,Keberadaan Satpam Luar Banking Hall yang siap dan siaga (N/A untuk KCP) - XYZ,Keberadaan Satpam Luar Banking Hall yang siap dan siaga (N/…,XYZ,Service Experience,Security,Pelayanan Umum,Atribut,6,1,1687,Ya
+T_SC1_7,Menawarkan bantuan saat nasabah datang,Menawarkan bantuan saat nasabah datang,XYZ,Service Experience,Security,Pelayanan Umum,Atribut,6,1,1730,Ya
+T_SC2_20,Menawarkan bantuan saat nasabah datang - XYZ,Menawarkan bantuan saat nasabah datang,XYZ,Service Experience,Security,Pelayanan Umum,Atribut,6,1,1729,Ya
+T_SC1_12,Mengucapkan terima kasih saat nasabah pulang,Mengucapkan terima kasih saat nasabah pulang,XYZ,Service Experience,Security,Pelayanan Umum,Atribut,6,1,1730,Ya
+T_SC2_35,Mengucapkan terima kasih saat nasabah pulang - XYZ,Mengucapkan terima kasih saat nasabah pulang,XYZ,Service Experience,Security,Pelayanan Umum,Atribut,6,1,1730,Ya
+T_SC2_9,Menggunakan seragam sekuriti yang lengkap - kompetitor,Menggunakan seragam sekuriti yang lengkap,Kompetitor,Service Experience,Security,Penampilan,Atribut,6,0,545,Ya
+T_SC2_6,Penampilannya rapi - kompetitor,Penampilannya rapi,Kompetitor,Service Experience,Security,Penampilan,Atribut,6,0,544,Ya
+T_SC2_3,"Penampilannya sesuai dengan standar (tinggi, tegap, besar dan tidak gemuk) - kompetitor","Penampilannya sesuai dengan standar (tinggi, tegap, besar d…",Kompetitor,Service Experience,Security,Penampilan,Atribut,6,0,545,Ya
+T_SC1_3,Menggunakan seragam sekuriti yang lengkap,Menggunakan seragam sekuriti yang lengkap,XYZ,Service Experience,Security,Penampilan,Atribut,6,1,1730,Ya
+T_SC2_8,Menggunakan seragam sekuriti yang lengkap - XYZ,Menggunakan seragam sekuriti yang lengkap,XYZ,Service Experience,Security,Penampilan,Atribut,6,1,1730,Ya
+T_SC1_2,Penampilannya rapi,Penampilannya rapi,XYZ,Service Experience,Security,Penampilan,Atribut,6,1,1730,Ya
+T_SC2_5,Penampilannya rapi - XYZ,Penampilannya rapi,XYZ,Service Experience,Security,Penampilan,Atribut,6,1,1730,Ya
+T_SC1_1,"Penampilannya sesuai dengan standar (tinggi, tegap, besar dan tidak gemuk)","Penampilannya sesuai dengan standar (tinggi, tegap, besar d…",XYZ,Service Experience,Security,Penampilan,Atribut,6,1,1730,Ya
+T_SC2_2,"Penampilannya sesuai dengan standar (tinggi, tegap, besar dan tidak gemuk) - XYZ","Penampilannya sesuai dengan standar (tinggi, tegap, besar d…",XYZ,Service Experience,Security,Penampilan,Atribut,6,1,1728,Ya
+T_SC2_15,Berperilaku sopan - kompetitor,Berperilaku sopan,Kompetitor,Service Experience,Security,Sikap & Keramahan,Atribut,6,0,545,Ya
+T_SC2_18,Mengucapkan salam saat nasabah datang/pulang - kompetitor,Mengucapkan salam saat nasabah datang/pulang,Kompetitor,Service Experience,Security,Sikap & Keramahan,Atribut,6,0,545,Ya
+T_SC2_12,Menyambut nasabah dengan ramah - kompetitor,Menyambut nasabah dengan ramah,Kompetitor,Service Experience,Security,Sikap & Keramahan,Atribut,6,0,545,Ya
+T_SC1_5,Berperilaku sopan,Berperilaku sopan,XYZ,Service Experience,Security,Sikap & Keramahan,Atribut,6,1,1730,Ya
+T_SC2_14,Berperilaku sopan - XYZ,Berperilaku sopan,XYZ,Service Experience,Security,Sikap & Keramahan,Atribut,6,1,1728,Ya
+T_SC1_6,Mengucapkan salam saat nasabah datang/pulang,Mengucapkan salam saat nasabah datang/pulang,XYZ,Service Experience,Security,Sikap & Keramahan,Atribut,6,1,1730,Ya
+T_SC2_17,Mengucapkan salam saat nasabah datang/pulang - XYZ,Mengucapkan salam saat nasabah datang/pulang,XYZ,Service Experience,Security,Sikap & Keramahan,Atribut,6,1,1728,Ya
+T_SC1_4,Menyambut nasabah dengan ramah,Menyambut nasabah dengan ramah,XYZ,Service Experience,Security,Sikap & Keramahan,Atribut,6,1,1730,Ya
+T_SC2_11,Menyambut nasabah dengan ramah - XYZ,Menyambut nasabah dengan ramah,XYZ,Service Experience,Security,Sikap & Keramahan,Atribut,6,1,1729,Ya
+T_CA1_4,Cepat dalam memberikan layanan.1,Cepat dalam memberikan layanan.1,XYZ,Service Experience,Customer Advisor,Kecepatan & Ketanggapan,Atribut,6,1,72,Ya
+T_CA2_4,Cepat dalam memberikan layanan.2,Cepat dalam memberikan layanan.2,XYZ,Service Experience,Customer Advisor,Kecepatan & Ketanggapan,Atribut,6,1,70,Ya
+T_CA1_18,"Menginformasikan produk, promo, dan kebijakan terbaru kepada nasabah dengan cara yang baik (disesuaikan dengan ketersediaan waktu nasabah).1","Menginformasikan produk, promo, dan kebijakan terbaru kepad…",XYZ,Service Experience,Customer Advisor,Kecepatan & Ketanggapan,Atribut,6,1,72,Ya
+T_CA2_18,"Menginformasikan produk, promo, dan kebijakan terbaru kepada nasabah dengan cara yang baik (disesuaikan dengan ketersediaan waktu nasabah).2","Menginformasikan produk, promo, dan kebijakan terbaru kepad…",XYZ,Service Experience,Customer Advisor,Kecepatan & Ketanggapan,Atribut,6,1,70,Ya
+T_CA1_6,Waktu layanan oleh CA cepat,Waktu layanan oleh CA cepat,XYZ,Service Experience,Customer Advisor,Kecepatan & Ketanggapan,Atribut,6,1,72,Ya
+T_CA2_6,Waktu layanan oleh CA cepat.1,Waktu layanan oleh CA cepat.1,XYZ,Service Experience,Customer Advisor,Kecepatan & Ketanggapan,Atribut,6,1,70,Ya
+T_CA1_9,CA memiliki pengetahuan dalam menjawab pertanyaan nasabah atau pengetahuan CA ketika menjelaskan produk kepada nasabah,CA memiliki pengetahuan dalam menjawab pertanyaan nasabah a…,XYZ,Service Experience,Customer Advisor,Kompetensi & Solusi,Atribut,6,1,72,Ya
+T_CA2_9,CA memiliki pengetahuan dalam menjawab pertanyaan nasabah atau pengetahuan CA ketika menjelaskan produk kepada nasabah.1,CA memiliki pengetahuan dalam menjawab pertanyaan nasabah a…,XYZ,Service Experience,Customer Advisor,Kompetensi & Solusi,Atribut,6,1,70,Ya
+T_CA1_7,Dapat menangani berbagai macam masalah sesuai kebutuhan,Dapat menangani berbagai macam masalah sesuai kebutuhan,XYZ,Service Experience,Customer Advisor,Kompetensi & Solusi,Atribut,6,1,72,Ya
+T_CA2_7,Dapat menangani berbagai macam masalah sesuai kebutuhan.1,Dapat menangani berbagai macam masalah sesuai kebutuhan.1,XYZ,Service Experience,Customer Advisor,Kompetensi & Solusi,Atribut,6,1,70,Ya
+T_CA1_11,Memberikan informasi yang lengkap dan akurat.1,Memberikan informasi yang lengkap dan akurat.1,XYZ,Service Experience,Customer Advisor,Kompetensi & Solusi,Atribut,6,1,72,Ya
+T_CA2_11,Memberikan informasi yang lengkap dan akurat.2,Memberikan informasi yang lengkap dan akurat.2,XYZ,Service Experience,Customer Advisor,Kompetensi & Solusi,Atribut,6,1,70,Ya
+T_CA1_3,Mengetahui pengetahuan yang baik tentang produk perbankan.1,Mengetahui pengetahuan yang baik tentang produk perbankan.1,XYZ,Service Experience,Customer Advisor,Kompetensi & Solusi,Atribut,6,1,72,Ya
+T_CA2_3,Mengetahui pengetahuan yang baik tentang produk perbankan.2,Mengetahui pengetahuan yang baik tentang produk perbankan.2,XYZ,Service Experience,Customer Advisor,Kompetensi & Solusi,Atribut,6,1,69,Ya
+T_CA1_5,Teliti dalam memberikan layanan.1,Teliti dalam memberikan layanan.1,XYZ,Service Experience,Customer Advisor,Kompetensi & Solusi,Atribut,6,1,72,Ya
+T_CA2_5,Teliti dalam memberikan layanan.2,Teliti dalam memberikan layanan.2,XYZ,Service Experience,Customer Advisor,Kompetensi & Solusi,Atribut,6,1,70,Ya
+T_CA2_20,"Dengan mempertimbangkan berbagai hal, bagaimana penilaian keseluruhan terhadap CUSTOMER ADVISOR bank","Dengan mempertimbangkan berbagai hal, bagaimana penilaian k…",XYZ,Service Experience,Customer Advisor,Overall,Overall,6,1,70,Ya
+T_CA1_8,CA memiliki keandalan sistem komputer/Laptop yang di gunakan (online),CA memiliki keandalan sistem komputer/Laptop yang di gunaka…,XYZ,Service Experience,Customer Advisor,Pelayanan Umum,Atribut,6,1,72,Ya
+T_CA2_8,CA memiliki keandalan sistem komputer/Laptop yang di gunakan (online).1,CA memiliki keandalan sistem komputer/Laptop yang di gunaka…,XYZ,Service Experience,Customer Advisor,Pelayanan Umum,Atribut,6,1,70,Ya
+T_CA1_10,CA memiliki pemahaman terhadap permintaan/permasalahan nasabah,CA memiliki pemahaman terhadap permintaan/permasalahan nasa…,XYZ,Service Experience,Customer Advisor,Pelayanan Umum,Atribut,6,1,72,Ya
+T_CA2_10,CA memiliki pemahaman terhadap permintaan/permasalahan nasabah.1,CA memiliki pemahaman terhadap permintaan/permasalahan nasa…,XYZ,Service Experience,Customer Advisor,Pelayanan Umum,Atribut,6,1,70,Ya
+T_CA1_19,CA menawarkan bantuan lain ketika akan mengakhiri layanan,CA menawarkan bantuan lain ketika akan mengakhiri layanan,XYZ,Service Experience,Customer Advisor,Pelayanan Umum,Atribut,6,1,72,Ya
+T_CA2_19,CA menawarkan bantuan lain ketika akan mengakhiri layanan.1,CA menawarkan bantuan lain ketika akan mengakhiri layanan.1,XYZ,Service Experience,Customer Advisor,Pelayanan Umum,Atribut,6,1,70,Ya
+T_CA1_17,CA mengucapkan terima kasih saat mengakhiri layanan,CA mengucapkan terima kasih saat mengakhiri layanan,XYZ,Service Experience,Customer Advisor,Pelayanan Umum,Atribut,6,1,72,Ya
+T_CA2_17,CA mengucapkan terima kasih saat mengakhiri layanan.1,CA mengucapkan terima kasih saat mengakhiri layanan.1,XYZ,Service Experience,Customer Advisor,Pelayanan Umum,Atribut,6,1,69,Ya
+T_CA1_2,CA selalu standby ketika dibutuhkan,CA selalu standby ketika dibutuhkan,XYZ,Service Experience,Customer Advisor,Pelayanan Umum,Atribut,6,1,72,Ya
+T_CA2_2,CA selalu standby ketika dibutuhkan.1,CA selalu standby ketika dibutuhkan.1,XYZ,Service Experience,Customer Advisor,Pelayanan Umum,Atribut,6,1,70,Ya
+T_CA1_15,Memberikan pelayanan dengan pendekatan personal (menyebut nama nasabah).2,Memberikan pelayanan dengan pendekatan personal (menyebut n…,XYZ,Service Experience,Customer Advisor,Pelayanan Umum,Atribut,6,1,72,Ya
+T_CA2_15,Memberikan pelayanan dengan pendekatan personal (menyebut nama nasabah).3,Memberikan pelayanan dengan pendekatan personal (menyebut n…,XYZ,Service Experience,Customer Advisor,Pelayanan Umum,Atribut,6,1,70,Ya
+T_CA1_12,Tidak mengobrol dengan rekan kerja.1,Tidak mengobrol dengan rekan kerja.1,XYZ,Service Experience,Customer Advisor,Pelayanan Umum,Atribut,6,1,72,Ya
+T_CA2_12,Tidak mengobrol dengan rekan kerja.2,Tidak mengobrol dengan rekan kerja.2,XYZ,Service Experience,Customer Advisor,Pelayanan Umum,Atribut,6,1,70,Ya
+T_CA1_13,CA berpenampilan rapi dan menarik,CA berpenampilan rapi dan menarik,XYZ,Service Experience,Customer Advisor,Penampilan,Atribut,6,1,72,Ya
+T_CA2_13,CA berpenampilan rapi dan menarik.1,CA berpenampilan rapi dan menarik.1,XYZ,Service Experience,Customer Advisor,Penampilan,Atribut,6,1,70,Ya
+T_CA1_16,CA mengucapkan salam saat menyambut dan mengakhiri layanan,CA mengucapkan salam saat menyambut dan mengakhiri layanan,XYZ,Service Experience,Customer Advisor,Sikap & Keramahan,Atribut,6,1,72,Ya
+T_CA2_16,CA mengucapkan salam saat menyambut dan mengakhiri layanan.1,CA mengucapkan salam saat menyambut dan mengakhiri layanan.1,XYZ,Service Experience,Customer Advisor,Sikap & Keramahan,Atribut,6,1,70,Ya
+T_CA1_1,CA ramah selama melayani (tersenyum dan tidak jutek selama melayani),CA ramah selama melayani (tersenyum dan tidak jutek selama …,XYZ,Service Experience,Customer Advisor,Sikap & Keramahan,Atribut,6,1,72,Ya
+T_CA2_1,CA ramah selama melayani (tersenyum dan tidak jutek selama melayani).1,CA ramah selama melayani (tersenyum dan tidak jutek selama …,XYZ,Service Experience,Customer Advisor,Sikap & Keramahan,Atribut,6,1,70,Ya
+T_CA1_14,Menunjukkan keinginan untuk membantu nasabah.1,Menunjukkan keinginan untuk membantu nasabah.1,XYZ,Service Experience,Customer Advisor,Sikap & Keramahan,Atribut,6,1,72,Ya
+T_CA2_14,Menunjukkan keinginan untuk membantu nasabah.2,Menunjukkan keinginan untuk membantu nasabah.2,XYZ,Service Experience,Customer Advisor,Sikap & Keramahan,Atribut,6,1,68,Ya
+T_SL1_6,Digital Signage dapat berfungsi dengan baik,Digital Signage dapat berfungsi dengan baik,XYZ,Service Experience,Service Electronics,Keandalan,Atribut,6,1,72,Ya
+T_SL2_6,Digital Signage dapat berfungsi dengan baik.1,Digital Signage dapat berfungsi dengan baik.1,XYZ,Service Experience,Service Electronics,Keandalan,Atribut,6,1,71,Ya
+T_SL1_10,Pinpad dapat berfungsi dengan baik,Pinpad dapat berfungsi dengan baik,XYZ,Service Experience,Service Electronics,Keandalan,Atribut,6,1,72,Ya
+T_SL1_12,Pinpad dapat berfungsi dengan baik.1,Pinpad dapat berfungsi dengan baik.1,XYZ,Service Experience,Service Electronics,Keandalan,Atribut,6,1,72,Ya
+T_SL2_10,Pinpad dapat berfungsi dengan baik.2,Pinpad dapat berfungsi dengan baik.2,XYZ,Service Experience,Service Electronics,Keandalan,Atribut,6,1,70,Ya
+T_SL2_12,Pinpad dapat berfungsi dengan baik.3,Pinpad dapat berfungsi dengan baik.3,XYZ,Service Experience,Service Electronics,Keandalan,Atribut,6,1,71,Ya
+T_SL1_8,Smart Table dapat berfungsi dengan baik,Smart Table dapat berfungsi dengan baik,XYZ,Service Experience,Service Electronics,Keandalan,Atribut,6,1,72,Ya
+T_SL2_8,Smart Table dapat berfungsi dengan baik.1,Smart Table dapat berfungsi dengan baik.1,XYZ,Service Experience,Service Electronics,Keandalan,Atribut,6,1,72,Ya
+T_SL1_4,XYZ Santer dapat berfungsi dengan baik,XYZ Santer dapat berfungsi dengan baik,XYZ,Service Experience,Service Electronics,Keandalan,Atribut,6,1,72,Ya
+T_SL2_4,XYZ Santer dapat berfungsi dengan baik.1,XYZ Santer dapat berfungsi dengan baik.1,XYZ,Service Experience,Service Electronics,Keandalan,Atribut,6,1,71,Ya
+T_SL1_14,Mesin CRM dapat berfungsi dengan baik,Mesin CRM dapat berfungsi dengan baik,XYZ,Service Experience,Service Electronics,Mesin & Perangkat,Atribut,6,1,72,Ya
+T_SL2_14,Mesin CRM dapat berfungsi dengan baik.1,Mesin CRM dapat berfungsi dengan baik.1,XYZ,Service Experience,Service Electronics,Mesin & Perangkat,Atribut,6,1,70,Ya
+T_SL1_16,Mesin TCR dapat berfungsi dengan baik,Mesin TCR dapat berfungsi dengan baik,XYZ,Service Experience,Service Electronics,Mesin & Perangkat,Atribut,6,1,72,Ya
+T_SL2_16,Mesin TCR dapat berfungsi dengan baik.1,Mesin TCR dapat berfungsi dengan baik.1,XYZ,Service Experience,Service Electronics,Mesin & Perangkat,Atribut,6,1,71,Ya
+T_SL1_13,"Terdapat mesin CRM pada kantor cabang (CRM adalah mesin ATM yang memiliki fungsi ATM Tarikan Tunai, ATM Non Tunai, dan ATM Setoran Tunai)",Terdapat mesin CRM pada kantor cabang (CRM adalah mesin ATM…,XYZ,Service Experience,Service Electronics,Mesin & Perangkat,Atribut,6,1,72,Ya
+T_SL2_13,"Terdapat mesin CRM pada kantor cabang (CRM adalah mesin ATM yang memiliki fungsi ATM Tarikan Tunai, ATM Non Tunai, dan ATM Setoran Tunai).1",Terdapat mesin CRM pada kantor cabang (CRM adalah mesin ATM…,XYZ,Service Experience,Service Electronics,Mesin & Perangkat,Atribut,6,1,72,Ya
+T_SL1_15,Terdapat mesin TCR pada kantor cabang (TCR adalah mesin setor tunai di mana nasabah dapat melakukan setoran tunai secara mandiri di area toonbank teller),Terdapat mesin TCR pada kantor cabang (TCR adalah mesin set…,XYZ,Service Experience,Service Electronics,Mesin & Perangkat,Atribut,6,1,72,Ya
+T_SL2_15,Terdapat mesin TCR pada kantor cabang (TCR adalah mesin setor tunai di mana nasabah dapat melakukan setoran tunai secara mandiri di area toonbank teller).1,Terdapat mesin TCR pada kantor cabang (TCR adalah mesin set…,XYZ,Service Experience,Service Electronics,Mesin & Perangkat,Atribut,6,1,69,Ya
+T_SL2_17,"Dengan mempertimbangkan berbagai hal, bagaimana penilaian keseluruhan terhadap SARANA ELEKTRONIK LAYANAN bank","Dengan mempertimbangkan berbagai hal, bagaimana penilaian k…",XYZ,Service Experience,Service Electronics,Overall,Overall,6,1,72,Ya
+T_SL1_2,CA menggunakan Smart Tab ketika menjelaskan kepada nasabah,CA menggunakan Smart Tab ketika menjelaskan kepada nasabah,XYZ,Service Experience,Service Electronics,Sarana Lain,Atribut,6,1,72,Ya
+T_SL2_2,CA menggunakan Smart Tab ketika menjelaskan kepada nasabah.1,CA menggunakan Smart Tab ketika menjelaskan kepada nasabah.1,XYZ,Service Experience,Service Electronics,Sarana Lain,Atribut,6,1,71,Ya
+T_SL1_5,Terdapat Digital Signage pada kantor cabang,Terdapat Digital Signage pada kantor cabang,XYZ,Service Experience,Service Electronics,Sarana Lain,Atribut,6,1,72,Ya
+T_SL2_5,Terdapat Digital Signage pada kantor cabang.1,Terdapat Digital Signage pada kantor cabang.1,XYZ,Service Experience,Service Electronics,Sarana Lain,Atribut,6,1,71,Ya
+T_SL1_9,Terdapat Pinpad pada area kerja CS,Terdapat Pinpad pada area kerja CS,XYZ,Service Experience,Service Electronics,Sarana Lain,Atribut,6,1,72,Ya
+T_SL2_9,Terdapat Pinpad pada area kerja CS.1,Terdapat Pinpad pada area kerja CS.1,XYZ,Service Experience,Service Electronics,Sarana Lain,Atribut,6,1,72,Ya
+T_SL1_11,Terdapat Pinpad pada area kerja Teller,Terdapat Pinpad pada area kerja Teller,XYZ,Service Experience,Service Electronics,Sarana Lain,Atribut,6,1,72,Ya
+T_SL2_11,Terdapat Pinpad pada area kerja Teller.1,Terdapat Pinpad pada area kerja Teller.1,XYZ,Service Experience,Service Electronics,Sarana Lain,Atribut,6,1,72,Ya
+T_SL1_1,Terdapat Smart Tab pada kantor cabang,Terdapat Smart Tab pada kantor cabang,XYZ,Service Experience,Service Electronics,Sarana Lain,Atribut,6,1,72,Ya
+T_SL2_1,Terdapat Smart Tab pada kantor cabang.1,Terdapat Smart Tab pada kantor cabang.1,XYZ,Service Experience,Service Electronics,Sarana Lain,Atribut,6,1,72,Ya
+T_SL1_7,Terdapat Smart Table pada kantor cabang,Terdapat Smart Table pada kantor cabang,XYZ,Service Experience,Service Electronics,Sarana Lain,Atribut,6,1,72,Ya
+T_SL2_7,Terdapat Smart Table pada kantor cabang.1,Terdapat Smart Table pada kantor cabang.1,XYZ,Service Experience,Service Electronics,Sarana Lain,Atribut,6,1,71,Ya
+T_SL1_3,Terdapat XYZ Santer pada kantor cabang,Terdapat XYZ Santer pada kantor cabang,XYZ,Service Experience,Service Electronics,Sarana Lain,Atribut,6,1,72,Ya
+T_SL2_3,Terdapat XYZ Santer pada kantor cabang.1,Terdapat XYZ Santer pada kantor cabang.1,XYZ,Service Experience,Service Electronics,Sarana Lain,Atribut,6,1,70,Ya
+T_AT3_12,Antrian di mesin ATM tidak panjang - kompetitor,Antrian di mesin ATM tidak panjang,Kompetitor,ATM Experience,ATM,ATM Umum,Atribut,6,0,521,Ya
+T_AT3_42,Disediakan nomor call center di mesin ATM yang bisa dihubungi - kompetitor,Disediakan nomor call center di mesin ATM yang bisa dihubun…,Kompetitor,ATM Experience,ATM,ATM Umum,Atribut,6,0,521,Ya
+T_AT3_3,Mesin ATMnya mudah ditemui dimana-mana - kompetitor,Mesin ATMnya mudah ditemui dimana-mana,Kompetitor,ATM Experience,ATM,ATM Umum,Atribut,6,0,522,Ya
+T_AT3_48,Terdapat tutup pengaman di atas tombol/keypad untuk menjaga kerahasiaan nasabah saat memasukkan PIN - kompetitor,Terdapat tutup pengaman di atas tombol/keypad untuk menjaga…,Kompetitor,ATM Experience,ATM,ATM Umum,Atribut,6,0,522,Ya
+T_AT2_4,Antrian di mesin ATM tidak panjang,Antrian di mesin ATM tidak panjang,XYZ,ATM Experience,ATM,ATM Umum,Atribut,6,1,1598,Ya
+T_AT3_11,Antrian di mesin ATM tidak panjang - XYZ,Antrian di mesin ATM tidak panjang,XYZ,ATM Experience,ATM,ATM Umum,Atribut,6,1,1596,Ya
+T_AT2_14,Disediakan nomor call center di mesin ATM yang bisa dihubungi,Disediakan nomor call center di mesin ATM yang bisa dihubun…,XYZ,ATM Experience,ATM,ATM Umum,Atribut,6,1,1598,Ya
+T_AT3_41,Disediakan nomor call center di mesin ATM yang bisa dihubungi - XYZ,Disediakan nomor call center di mesin ATM yang bisa dihubun…,XYZ,ATM Experience,ATM,ATM Umum,Atribut,6,1,1595,Ya
+T_AT2_1,Mesin ATMnya mudah ditemui dimana-mana,Mesin ATMnya mudah ditemui dimana-mana,XYZ,ATM Experience,ATM,ATM Umum,Atribut,6,1,1598,Ya
+T_AT3_2,Mesin ATMnya mudah ditemui dimana-mana - XYZ,Mesin ATMnya mudah ditemui dimana-mana,XYZ,ATM Experience,ATM,ATM Umum,Atribut,6,1,1596,Ya
+T_AT2_16,Terdapat tutup pengaman di atas tombol/keypad untuk menjaga kerahasiaan nasabah saat memasukkan PIN,Terdapat tutup pengaman di atas tombol/keypad untuk menjaga…,XYZ,ATM Experience,ATM,ATM Umum,Atribut,6,1,1598,Ya
+T_AT3_47,Terdapat tutup pengaman di atas tombol/keypad untuk menjaga kerahasiaan nasabah saat memasukkan PIN - XYZ,Terdapat tutup pengaman di atas tombol/keypad untuk menjaga…,XYZ,ATM Experience,ATM,ATM Umum,Atribut,6,1,1594,Ya
+T_AT3_9,"Fitur-fitur yang ada di mesin ATM lengkap: pembayaran berbagai macam tagihan, transfer antar bank dan pembelian - kompetitor",Fitur-fitur yang ada di mesin ATM lengkap: pembayaran berba…,Kompetitor,ATM Experience,ATM,Fitur & Transaksi,Atribut,6,0,518,Ya
+T_AT3_6,"Ketersediaan berbagai jenis ATM (tunai, setor tunai, non tunai) - kompetitor","Ketersediaan berbagai jenis ATM (tunai, setor tunai, non tu…",Kompetitor,ATM Experience,ATM,Fitur & Transaksi,Atribut,6,0,520,Ya
+T_AT3_54,Memiliki persediaan uang yang cukup - kompetitor,Memiliki persediaan uang yang cukup,Kompetitor,ATM Experience,ATM,Fitur & Transaksi,Atribut,6,0,520,Ya
+T_AT3_27,Menyediakan ATM dengan berbagai pilihan pecahan nominal (Rp 50.000/Rp 100.000) - kompetitor,Menyediakan ATM dengan berbagai pilihan pecahan nominal (Rp…,Kompetitor,ATM Experience,ATM,Fitur & Transaksi,Atribut,6,0,521,Ya
+T_AT2_3,"Fitur-fitur yang ada di mesin ATM lengkap: pembayaran berbagai macam tagihan, transfer antar bank dan pembelian",Fitur-fitur yang ada di mesin ATM lengkap: pembayaran berba…,XYZ,ATM Experience,ATM,Fitur & Transaksi,Atribut,6,1,1598,Ya
+T_AT3_8,"Fitur-fitur yang ada di mesin ATM lengkap: pembayaran berbagai macam tagihan, transfer antar bank dan pembelian - XYZ",Fitur-fitur yang ada di mesin ATM lengkap: pembayaran berba…,XYZ,ATM Experience,ATM,Fitur & Transaksi,Atribut,6,1,1595,Ya
+T_AT2_2,"Ketersediaan berbagai jenis ATM (tunai, setor tunai, non tunai)","Ketersediaan berbagai jenis ATM (tunai, setor tunai, non tu…",XYZ,ATM Experience,ATM,Fitur & Transaksi,Atribut,6,1,1598,Ya
+T_AT3_5,"Ketersediaan berbagai jenis ATM (tunai, setor tunai, non tunai) - XYZ","Ketersediaan berbagai jenis ATM (tunai, setor tunai, non tu…",XYZ,ATM Experience,ATM,Fitur & Transaksi,Atribut,6,1,1593,Ya
+T_AT2_18,Memiliki persediaan uang yang cukup,Memiliki persediaan uang yang cukup,XYZ,ATM Experience,ATM,Fitur & Transaksi,Atribut,6,1,1598,Ya
+T_AT3_53,Memiliki persediaan uang yang cukup - XYZ,Memiliki persediaan uang yang cukup,XYZ,ATM Experience,ATM,Fitur & Transaksi,Atribut,6,1,1595,Ya
+T_AT2_9,Menyediakan ATM dengan berbagai pilihan pecahan nominal (Rp 50.000/Rp 100.000),Menyediakan ATM dengan berbagai pilihan pecahan nominal (Rp…,XYZ,ATM Experience,ATM,Fitur & Transaksi,Atribut,6,1,1598,Ya
+T_AT3_26,Menyediakan ATM dengan berbagai pilihan pecahan nominal (Rp 50.000/Rp 100.000) - XYZ,Menyediakan ATM dengan berbagai pilihan pecahan nominal (Rp…,XYZ,ATM Experience,ATM,Fitur & Transaksi,Atribut,6,1,1596,Ya
+T_AT3_21,Mesin ATMnya berada di lokasi yang aman (bukan di tempat yang sepi) - kompetitor,Mesin ATMnya berada di lokasi yang aman (bukan di tempat ya…,Kompetitor,ATM Experience,ATM,Keamanan,Atribut,6,0,520,Ya
+T_AT3_15,Saya merasa aman ketika bertransaksi menggunakan ATM karena dilengkapi dengan CCTV/ada sekuriti - kompetitor,Saya merasa aman ketika bertransaksi menggunakan ATM karena…,Kompetitor,ATM Experience,ATM,Keamanan,Atribut,6,0,521,Ya
+T_AT3_33,Selalu meminta PIN setiap kali berganti transaksi untuk menjamin keamanan - kompetitor,Selalu meminta PIN setiap kali berganti transaksi untuk men…,Kompetitor,ATM Experience,ATM,Keamanan,Atribut,6,0,519,Ya
+T_AT2_7,Mesin ATMnya berada di lokasi yang aman (bukan di tempat yang sepi),Mesin ATMnya berada di lokasi yang aman (bukan di tempat ya…,XYZ,ATM Experience,ATM,Keamanan,Atribut,6,1,1598,Ya
+T_AT3_20,Mesin ATMnya berada di lokasi yang aman (bukan di tempat yang sepi) - XYZ,Mesin ATMnya berada di lokasi yang aman (bukan di tempat ya…,XYZ,ATM Experience,ATM,Keamanan,Atribut,6,1,1596,Ya
+T_AT2_5,Saya merasa aman ketika bertransaksi menggunakan ATM karena dilengkapi dengan CCTV/ada sekuriti,Saya merasa aman ketika bertransaksi menggunakan ATM karena…,XYZ,ATM Experience,ATM,Keamanan,Atribut,6,1,1598,Ya
+T_AT3_14,Saya merasa aman ketika bertransaksi menggunakan ATM karena dilengkapi dengan CCTV/ada sekuriti - XYZ,Saya merasa aman ketika bertransaksi menggunakan ATM karena…,XYZ,ATM Experience,ATM,Keamanan,Atribut,6,1,1597,Ya
+T_AT2_11,Selalu meminta PIN setiap kali berganti transaksi untuk menjamin keamanan,Selalu meminta PIN setiap kali berganti transaksi untuk men…,XYZ,ATM Experience,ATM,Keamanan,Atribut,6,1,1598,Ya
+T_AT3_32,Selalu meminta PIN setiap kali berganti transaksi untuk menjamin keamanan - XYZ,Selalu meminta PIN setiap kali berganti transaksi untuk men…,XYZ,ATM Experience,ATM,Keamanan,Atribut,6,1,1597,Ya
+T_AT3_36,Kartu ATMnya bisa digunakan di ATM BERSAMA dan jaringan ATM lainnya - kompetitor,Kartu ATMnya bisa digunakan di ATM BERSAMA dan jaringan ATM…,Kompetitor,ATM Experience,ATM,Keandalan Mesin,Atribut,6,0,521,Ya
+T_AT3_30,Kartu ATMnya dapat digunakan untuk bertransaksi dan berbelanja - kompetitor,Kartu ATMnya dapat digunakan untuk bertransaksi dan berbela…,Kompetitor,ATM Experience,ATM,Keandalan Mesin,Atribut,6,0,520,Ya
+T_AT3_39,Memiliki alarm yang mengingatkan jika kartu ATM belum diambil dari mesin ATM - kompetitor,Memiliki alarm yang mengingatkan jika kartu ATM belum diamb…,Kompetitor,ATM Experience,ATM,Keandalan Mesin,Atribut,6,0,521,Ya
+T_AT3_18,"Mesin ATM dapat berfungsi dengan baik ketika akan digunakan (tidak sering error, offline,struk selalu tersedia) - kompetitor",Mesin ATM dapat berfungsi dengan baik ketika akan digunakan…,Kompetitor,ATM Experience,ATM,Keandalan Mesin,Atribut,6,0,521,Ya
+T_AT2_12,Kartu ATMnya bisa digunakan di ATM BERSAMA dan jaringan ATM lainnya,Kartu ATMnya bisa digunakan di ATM BERSAMA dan jaringan ATM…,XYZ,ATM Experience,ATM,Keandalan Mesin,Atribut,6,1,1598,Ya
+T_AT3_35,Kartu ATMnya bisa digunakan di ATM BERSAMA dan jaringan ATM lainnya - XYZ,Kartu ATMnya bisa digunakan di ATM BERSAMA dan jaringan ATM…,XYZ,ATM Experience,ATM,Keandalan Mesin,Atribut,6,1,1597,Ya
+T_AT2_10,Kartu ATMnya dapat digunakan untuk bertransaksi dan berbelanja,Kartu ATMnya dapat digunakan untuk bertransaksi dan berbela…,XYZ,ATM Experience,ATM,Keandalan Mesin,Atribut,6,1,1598,Ya
+T_AT3_29,Kartu ATMnya dapat digunakan untuk bertransaksi dan berbelanja - XYZ,Kartu ATMnya dapat digunakan untuk bertransaksi dan berbela…,XYZ,ATM Experience,ATM,Keandalan Mesin,Atribut,6,1,1597,Ya
+T_AT2_13,Memiliki alarm yang mengingatkan jika kartu ATM belum diambil dari mesin ATM,Memiliki alarm yang mengingatkan jika kartu ATM belum diamb…,XYZ,ATM Experience,ATM,Keandalan Mesin,Atribut,6,1,1598,Ya
+T_AT3_38,Memiliki alarm yang mengingatkan jika kartu ATM belum diambil dari mesin ATM - XYZ,Memiliki alarm yang mengingatkan jika kartu ATM belum diamb…,XYZ,ATM Experience,ATM,Keandalan Mesin,Atribut,6,1,1594,Ya
+T_AT2_6,"Mesin ATM dapat berfungsi dengan baik ketika akan digunakan (tidak sering error, offline,struk selalu tersedia)",Mesin ATM dapat berfungsi dengan baik ketika akan digunakan…,XYZ,ATM Experience,ATM,Keandalan Mesin,Atribut,6,1,1598,Ya
+T_AT3_17,"Mesin ATM dapat berfungsi dengan baik ketika akan digunakan (tidak sering error, offline,struk selalu tersedia) - XYZ",Mesin ATM dapat berfungsi dengan baik ketika akan digunakan…,XYZ,ATM Experience,ATM,Keandalan Mesin,Atribut,6,1,1597,Ya
+T_AT3_24,"Ruangan mesin ATMnya nyaman (sejuk, bersih, wangi) - kompetitor","Ruangan mesin ATMnya nyaman (sejuk, bersih, wangi)",Kompetitor,ATM Experience,ATM,Kenyamanan & Kebersihan,Atribut,6,0,520,Ya
+T_AT2_8,"Ruangan mesin ATMnya nyaman (sejuk, bersih, wangi)","Ruangan mesin ATMnya nyaman (sejuk, bersih, wangi)",XYZ,ATM Experience,ATM,Kenyamanan & Kebersihan,Atribut,6,1,1598,Ya
+T_AT3_23,"Ruangan mesin ATMnya nyaman (sejuk, bersih, wangi) - XYZ","Ruangan mesin ATMnya nyaman (sejuk, bersih, wangi)",XYZ,ATM Experience,ATM,Kenyamanan & Kebersihan,Atribut,6,1,1597,Ya
+T_AT3_51,Tersedia informasi untuk lokasi ATM terdekat - kompetitor,Tersedia informasi untuk lokasi ATM terdekat,Kompetitor,ATM Experience,ATM,Ketersediaan & Lokasi,Atribut,6,0,520,Ya
+T_AT3_45,Tersedia tempat sampah di bilik ATM - kompetitor,Tersedia tempat sampah di bilik ATM,Kompetitor,ATM Experience,ATM,Ketersediaan & Lokasi,Atribut,6,0,520,Ya
+T_AT2_17,Tersedia informasi untuk lokasi ATM terdekat,Tersedia informasi untuk lokasi ATM terdekat,XYZ,ATM Experience,ATM,Ketersediaan & Lokasi,Atribut,6,1,1598,Ya
+T_AT3_50,Tersedia informasi untuk lokasi ATM terdekat - XYZ,Tersedia informasi untuk lokasi ATM terdekat,XYZ,ATM Experience,ATM,Ketersediaan & Lokasi,Atribut,6,1,1596,Ya
+T_AT2_15,Tersedia tempat sampah di bilik ATM,Tersedia tempat sampah di bilik ATM,XYZ,ATM Experience,ATM,Ketersediaan & Lokasi,Atribut,6,1,1598,Ya
+T_AT3_44,Tersedia tempat sampah di bilik ATM - XYZ,Tersedia tempat sampah di bilik ATM,XYZ,ATM Experience,ATM,Ketersediaan & Lokasi,Atribut,6,1,1592,Ya
+T_AT3_57,"Dengan mempertimbangkan berbagai hal, bagaimana penilaian keseluruhan terhadap fasilitas ATM bank…. - kompetitor","Dengan mempertimbangkan berbagai hal, bagaimana penilaian k…",Kompetitor,ATM Experience,ATM,Overall,Overall,6,0,521,Ya
+T_AT3_56,"Dengan mempertimbangkan berbagai hal, bagaimana penilaian keseluruhan terhadap fasilitas ATM bank…. - XYZ","Dengan mempertimbangkan berbagai hal, bagaimana penilaian k…",XYZ,ATM Experience,ATM,Overall,Overall,6,1,1597,Ya
+S1,Jenis kelamin,Jenis kelamin,XYZ,Filter & Profil,,Tambahan,Filter+Profil,0,0,0,Ya
+S7,"Seberapa sering Bapak/Ibu melakukan transaksi dengan Bank XYZ, baik secara online dengan mobile banking atau datang ke kantor cabang Bank XYZ ?",Seberapa sering Bapak/Ibu melakukan transaksi dengan Bank X…,XYZ,Filter & Profil,,Tambahan,Filter,0,0,0,Ya
+KABKOTA,Kab / Kota,Kab / Kota,XYZ,Filter & Profil,,Utama,Filter,0,0,0,Ya
+CABANG,NAMA KANTOR CABANG,NAMA KANTOR CABANG,XYZ,Filter & Profil,,Utama,Filter,0,0,0,Ya
+PROV,Provinsi,Provinsi,XYZ,Filter & Profil,,Utama,Filter,0,0,0,Ya
+S2_2,Range Usia,Range Usia,XYZ,Filter & Profil,,Utama,Filter+Profil,0,0,0,Ya
+S4,Sudah berapa lamakah Bapak/Ibu menjadi nasabah Bank XYZ?,Sudah berapa lamakah Bapak/Ibu menjadi nasabah Bank XYZ?,XYZ,Filter & Profil,,Utama,Filter+Profil,0,0,0,Ya
